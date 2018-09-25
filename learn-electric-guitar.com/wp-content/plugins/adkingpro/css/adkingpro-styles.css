@@ -1,0 +1,173 @@
+/* 
+    Document   : adkingpro-styles
+    Created on : 11/11/2012, 12:23:02 AM
+    Author     : Ash Durham
+*/
+
+/**** Adverts table ****/
+
+.wp-list-table td.advert_image img {
+    width: 100% !important;
+    max-width: 200px;
+}
+
+/**** Edit Screen Styling ****/
+
+.curtime #expiry {
+background-repeat: no-repeat;
+background-position: left center;
+padding: 2px 0 1px 20px;
+background-image: url(../../../../wp-admin/images/date-button.gif);
+}
+
+#expirydiv input {
+border-width: 1px;
+border-style: solid;
+}
+
+#exp_d, #exp_h, #exp_i {
+width: 2em;
+}
+
+#exp_y {
+width: 3.4em;
+}
+
+#exp_y, #exp_d, #exp_h, #exp_i {
+padding: 1px;
+font-size: 12px;
+}
+
+.akp_shortcode_example {
+    height: 40px;
+    line-height: 40px;
+    width: 100%;
+    background-color: #ccc;
+    color: #333;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.akp_shortcode_q {
+    padding: 10px 0;
+}
+
+/***** Settings Area Styling *****/
+
+.akp_tabs {
+    margin-top: -20px;
+}
+
+.akp_tabs a {
+    padding: 0 15px;
+    font-size: 18px;
+    height: 32px;
+    line-height: 32px;
+    display: inline-block;
+    border: 1px solid #aaa;
+    border-top: none;
+    background: #ccc;
+    color: #666;
+    margin-right: 2px;
+    position: relative;
+    cursor: pointer;
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",sans-serif;
+}
+
+.akp_tabs a.active, .akp_tabs a:hover {
+    top: -1px;
+    background: #efefef;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.wrap div.error.akp_notice, .wrap div.updated.akp_notice {
+    margin: 25px 0 5px;
+}
+
+.akp_sections div.akp_section {
+    width: 0%;
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+    -webkit-transition: opacity 0.5s ease;
+    -moz-transition: opacity 0.5s ease;
+    -ms-transition: opacity 0.5s ease;
+    -o-transition: opacity 0.5s ease;
+    transition: opacity 0.5s ease;
+}
+
+.akp_sections div.akp_section.active {
+    width: 90%;
+    height: auto;
+    opacity: 1;
+    padding: 20px 0;
+}
+
+.akp_sections .form-table tr:nth-child(even) {
+    background: #eee;
+}
+
+.akp_sections .button-primary {margin: 20px 0;}
+
+.kpp_block.filled {
+    padding:20px;
+    border: 1px solid #ccc;
+    background: #efefef;
+    border-top-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    margin: 20px 0;
+}
+
+#kpp_social {display: block; overflow: hidden;}
+
+#kpp_social .kpp_social {
+    width: 285px; 
+    height: 40px; 
+    line-height: 40px;
+    text-align: center;
+    border-top-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    float: left;
+    margin: 0 20px 20px 0;
+    font-size: 20px;
+}
+
+#kpp_social .kpp_social.facebook {background: #46629E;}
+#kpp_social .kpp_social.twitter {background: #27B6F2;}
+#kpp_social .kpp_social.google {background: #CE352C;}
+
+
+#kpp_social .kpp_social a {display: block; width: 100%; height: 100%; color: #fff; text-decoration: none; font-weight: bold;}
+
+#kpp_social .kpp_social a span.kpp_width {
+    width: 0px;
+    display: inline-block;
+    -webkit-transition: width 0.5s ease;
+    -moz-transition: width 0.5s ease;
+    -ms-transition: width 0.5s ease;
+    -o-transition: width 0.5s ease;
+    transition: width 0.5s ease;
+}
+
+#kpp_social .kpp_social a:hover span.kpp_width {
+    width: 90px;
+}
+
+#kpp_social .kpp_social a span.kpp_opacity {
+    opacity: 0;
+    -webkit-transition-delay: 1s;
+    -moz-transition-delay: 1s;
+    -ms-transition-delay: 1s;
+    -o-transition-delay: 1s;
+    transition-delay: 1s;
+    -webkit-transition: opacity 0.5s ease;
+    -moz-transition: opacity 0.5s ease;
+    -ms-transition: opacity 0.5s ease;
+    -o-transition: opacity 0.5s ease;
+    transition: opacity 0.5s ease;
+}
+
+#kpp_social .kpp_social a:hover span.kpp_opacity {
+    opacity: 1;
+}

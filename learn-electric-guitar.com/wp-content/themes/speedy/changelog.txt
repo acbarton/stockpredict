@@ -1,0 +1,19 @@
+== Changelog ==
+
+= 1.0.4 =
+* Bug fixed
+
+= 1.0.3 =
+* Bug fixed
+
+= 1.0.2 =
+* Content overflow style fixed
+
+= 1.0.1 =
+* Style fixed
+
+= 1.0.0 =
+* Features added
+
+= 0.0.1 =
+* Initial released

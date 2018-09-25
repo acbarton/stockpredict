@@ -1,0 +1,367 @@
+[18-Aug-2015 16:00:33 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:00:43 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 12
+[18-Aug-2015 16:01:10 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 12
+[18-Aug-2015 16:01:12 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 12
+[18-Aug-2015 16:01:15 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:02:15 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:02:18 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 12
+[18-Aug-2015 16:02:18 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:03:10 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:03:10 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 12
+[18-Aug-2015 16:03:37 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:04:44 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:06:28 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:07:11 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:08:37 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:08:50 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 12
+[18-Aug-2015 16:10:49 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:10:53 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:10:58 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:11:53 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[18-Aug-2015 16:12:13 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[18-Aug-2015 16:12:24 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:12:24 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[18-Aug-2015 16:12:54 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[18-Aug-2015 16:12:54 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:15:10 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[18-Aug-2015 16:15:10 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:15:49 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:15:53 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:15:59 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[18-Aug-2015 16:16:53 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:16:53 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[18-Aug-2015 16:16:58 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:16:58 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[18-Aug-2015 16:17:33 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 12
+[18-Aug-2015 16:17:33 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:17:36 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:17:38 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 12
+[18-Aug-2015 16:17:41 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:18:58 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 12
+[18-Aug-2015 16:18:58 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[18-Aug-2015 16:19:01 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[29-Apr-2016 10:47:33 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadDefinition.php on line 11
+[17-Nov-2016 03:23:04 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[17-Nov-2016 03:23:04 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[17-Nov-2016 03:24:22 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[17-Nov-2016 03:24:23 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[05-Dec-2016 03:50:19 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[05-Dec-2016 03:50:20 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[05-Dec-2016 03:53:48 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[05-Dec-2016 03:53:56 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[08-Dec-2016 00:40:06 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadDefinition.php on line 11
+[08-Dec-2016 00:44:54 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadDefinition.php on line 11
+[15-Feb-2017 02:34:10 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[15-Feb-2017 02:34:14 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[15-Feb-2017 02:34:14 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[01-Apr-2017 05:02:45 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/kjvbodbx/public_html/scripts/php/loadDefinition.php on line 11
+[18-Jan-2018 15:30:09 America/New_York] PHP Warning:  file_get_contents(https://1828.mshaffer.com/d/word/God): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[18-Jan-2018 15:30:09 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadDefinition.php on line 11
+[23-Jan-2018 02:00:58 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=O): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[23-Jan-2018 02:00:58 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[23-Jan-2018 02:00:58 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=O): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[23-Jan-2018 02:00:58 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[23-Jan-2018 02:01:00 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=O): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[23-Jan-2018 02:01:00 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[23-Jan-2018 02:01:00 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=O): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[23-Jan-2018 02:01:00 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[23-Jan-2018 02:01:00 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=O): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[23-Jan-2018 02:01:00 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[23-Jan-2018 02:01:00 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=O): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[23-Jan-2018 02:01:00 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[21-Feb-2018 18:37:59 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=for): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[21-Feb-2018 18:37:59 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[21-Feb-2018 18:37:59 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=for): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[21-Feb-2018 18:37:59 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[26-Feb-2018 10:13:12 America/New_York] PHP Warning:  file_get_contents(https://1828.mshaffer.com/d/word/fool): failed to open stream: HTTP request failed!  in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[26-Feb-2018 10:13:12 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadDefinition.php on line 11
+[26-Feb-2018 10:52:14 America/New_York] PHP Warning:  file_get_contents(https://1828.mshaffer.com/d/word/whoremongers): failed to open stream: HTTP request failed!  in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[26-Feb-2018 10:52:14 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadDefinition.php on line 11
+[10-Mar-2018 06:33:43 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=them): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[10-Mar-2018 06:33:43 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-Mar-2018 20:34:13 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=God): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 20:34:13 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-Mar-2018 20:34:13 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=God): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 20:34:13 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-Mar-2018 22:37:36 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=beguile): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:37:36 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-Mar-2018 22:37:36 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=beguile): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:37:36 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-Mar-2018 22:38:50 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=rudiments): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:38:50 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-Mar-2018 22:38:55 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=rudiments): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:38:55 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-Mar-2018 22:38:55 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=rudiments): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:38:55 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-Mar-2018 22:38:55 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=rudiments): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:38:55 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-Mar-2018 22:38:58 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=rudiments): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:38:58 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-Mar-2018 22:38:58 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=rudiments): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:38:58 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-Mar-2018 22:38:59 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=rudiments): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:38:59 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-Mar-2018 22:38:59 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=rudiments): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:38:59 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-Mar-2018 22:43:54 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=beguile): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:43:54 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-Mar-2018 22:43:54 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=beguile): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:43:54 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-Mar-2018 22:44:41 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=Christ): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:44:41 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-Mar-2018 22:44:41 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=Christ): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-Mar-2018 22:44:41 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[10-Apr-2018 15:44:31 America/New_York] PHP Notice:  Undefined index: book in /home/kjvbodbx/public_html/scripts/php/contents.php on line 3
+[22-Apr-2018 09:58:37 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=as): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[22-Apr-2018 09:58:37 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[22-Apr-2018 09:58:37 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=as): failed to open stream: Connection timed out in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[22-Apr-2018 09:58:37 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[26-May-2018 09:57:32 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=which): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[26-May-2018 09:57:32 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[26-May-2018 09:57:32 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=which): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[26-May-2018 09:57:32 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-May-2018 07:03:11 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=of): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-May-2018 07:03:11 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-May-2018 07:03:11 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=of): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-May-2018 07:03:11 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-May-2018 14:43:55 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=to): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-May-2018 14:43:55 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=to): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-May-2018 14:43:55 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-May-2018 14:43:55 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-May-2018 15:43:59 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=faithful): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-May-2018 15:43:59 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-May-2018 15:43:59 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=faithful): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-May-2018 15:43:59 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-May-2018 15:44:03 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=Christ): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-May-2018 15:44:03 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-May-2018 15:44:03 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=Christ): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-May-2018 15:44:03 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[27-May-2018 15:44:08 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=peace): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-May-2018 15:44:08 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[27-May-2018 15:44:08 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=peace): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[27-May-2018 15:44:08 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:50:18 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:50:18 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:50:18 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:50:18 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:51:18 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:51:18 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:51:18 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:51:18 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:51:18 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:51:18 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:51:18 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:51:18 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:51:23 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:51:23 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:51:23 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:51:23 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:51:23 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:51:23 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:51:23 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:51:23 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:51:41 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=lewd): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:51:41 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:51:41 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=lewd): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:51:41 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:51:47 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:51:47 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:51:47 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:51:47 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:52:16 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=Greeks): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:52:16 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:52:16 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=Greeks): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:52:16 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:52:29 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=Greeks): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:52:29 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:52:29 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=Greeks): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:52:29 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:52:29 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=Greeks): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:52:29 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:52:29 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=Greeks): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:52:29 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:52:30 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=Greeks): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:52:30 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:52:30 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=Greeks): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:52:30 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:52:31 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=Greeks): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:52:31 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:52:31 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=Greeks): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:52:31 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:52:46 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=Caesar): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:52:46 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:52:46 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=Caesar): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:52:46 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:53:09 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:09 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:53:09 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:09 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:53:09 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:09 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:53:09 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:09 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:53:13 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:13 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:53:13 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:13 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:53:14 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:14 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:53:14 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:14 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:53:16 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=uproar): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:16 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:53:16 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=uproar): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:16 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:53:24 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=dead): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:24 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 00:53:24 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=dead): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:24 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:53:29 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:29 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 00:53:29 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=baser): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 00:53:29 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:09:44 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=heed): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:09:44 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 03:09:44 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=heed): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:09:44 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:10:04 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=yourselves): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:10:04 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:10:04 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=yourselves): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:10:04 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 03:15:14 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=except): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:15:14 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=except): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:15:14 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:15:14 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 03:15:23 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=he): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:15:23 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:15:23 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=he): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:15:23 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 03:15:44 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=sake): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:15:44 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 03:15:44 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=sake): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:15:44 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:18:29 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=gospel): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:18:29 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:18:29 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=gospel): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:18:29 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 03:22:10 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=endure): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:22:10 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:22:10 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=endure): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:22:10 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 03:25:03 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=elect): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:25:03 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 03:25:03 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=elect): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:25:03 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:46:56 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=affliction): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:46:56 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 03:46:56 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=affliction): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:46:56 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:51:07 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=shortened): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:51:07 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:51:08 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=shortened): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:51:08 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 03:55:02 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=feast): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:55:02 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:55:02 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=feast): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:55:02 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 03:59:03 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=unleavened): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:59:03 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 03:59:03 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=unleavened): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 03:59:03 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 04:05:05 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=Master): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 04:05:05 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 04:05:05 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=Master): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 04:05:05 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[28-May-2018 04:34:44 America/New_York] PHP Notice:  Undefined index: chapter in /home/kjvbodbx/public_html/scripts/php/loadChapter.php on line 3
+[28-May-2018 10:56:46 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=greeklexicon&amp;isindex=him): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 10:56:46 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadGreek.php on line 11
+[28-May-2018 10:56:46 America/New_York] PHP Warning:  file_get_contents(http://www.eliyah.com/cgi-bin/strongs.cgi?file=hebrewlexicon&amp;isindex=him): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/kjvbodbx/public_html/scripts/php/simple_html_dom.php on line 76
+[28-May-2018 10:56:46 America/New_York] PHP Fatal error:  Call to a member function find() on boolean in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 12
+[31-May-2018 03:44:50 America/New_York] PHP Notice:  Undefined index: chapter in /home/kjvbodbx/public_html/scripts/php/loadChapter.php on line 3
+[22-Jun-2018 19:52:13 America/New_York] PHP Notice:  Undefined index: chapter in /home/kjvbodbx/public_html/scripts/php/loadChapter.php on line 3
+[22-Jun-2018 20:42:07 America/New_York] PHP Notice:  Undefined index: book in /home/kjvbodbx/public_html/scripts/php/contents.php on line 3
+[22-Jun-2018 20:53:29 America/New_York] PHP Notice:  Undefined index: word in /home/kjvbodbx/public_html/scripts/php/loadDefinition.php on line 5
+[22-Jun-2018 21:02:06 America/New_York] PHP Notice:  Undefined index: chapter in /home/kjvbodbx/public_html/scripts/php/loadChapter.php on line 3
+[22-Jun-2018 22:33:28 America/New_York] PHP Notice:  Undefined index: word in /home/kjvbodbx/public_html/scripts/php/loadDefinition.php on line 5
+[22-Jun-2018 22:42:27 America/New_York] PHP Notice:  Undefined index: word in /home/kjvbodbx/public_html/scripts/php/loadHebrew.php on line 6
+[16-Sep-2018 04:51:15 America/New_York] PHP Notice:  Undefined index: word in /home/kjvbodbx/public_html/scripts/php/loadDefinition.php on line 5

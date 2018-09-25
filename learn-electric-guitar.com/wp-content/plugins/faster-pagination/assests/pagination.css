@@ -1,0 +1,30 @@
+.pagination {
+	width: 100%;
+	margin: 28px 0 58px 0;
+	padding: 0;
+	float: right;
+	text-align: center;
+}
+.pagination ul {
+	margin: 0;
+	padding: 0;
+}
+.pagination ul li {
+	margin: 0;
+	padding: 0 5px;
+	list-style: none;
+	display: inline;
+}
+.pagination ul li a {
+	margin: 0;
+	padding: 5px 12px;
+	border-radius: 3px;
+	border: 1px solid #c9c9c9;
+	font-size: 15px;
+}
+.pagination ul li a:hover, a.select, .pagination .active a {
+	border: 1px solid #00bee0;
+}
+.pagination .active a {
+	cursor: default;
+}

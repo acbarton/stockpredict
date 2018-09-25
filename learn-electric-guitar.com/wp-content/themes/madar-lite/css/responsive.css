@@ -1,0 +1,399 @@
+@media only screen and (max-width: 350px) and (min-width: 0px){
+    .box, .top-wrap {
+    width: 100%;
+    }
+    .social-icons a {display:none}
+	.flex-caption em, .slider_readmore {
+    display: none;
+    }
+	.main-navigation-menu {
+	margin-left: 0px;
+	}
+    .one-column li.child-news {
+    width: 90%;
+    }
+    .fpage-cat {width: 98%; margin: 10px 0;}
+	.two-column li.child-news h3 {
+    text-transform: uppercase !important;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+    }
+
+	.fb_iframe_widget {
+    display: none !important ;
+    position: relative;
+    }
+	.home-separator {
+    clear: both;
+    background: #A1A1A1 none repeat scroll 0% 0%;
+    margin: 20px 0px;
+    height: 3px;
+    border-left: 50px solid #007FFF;
+    border-right: 50px solid #007FFF;
+    }
+	.cbp-qtrotator .cbp-qtcontent img {
+    float: none;
+    margin: 1.5em 1.5em 1.5em 3em;
+     }
+    .container, header, .header-container, .top-banner, .content, #footer-container, .footer-bottom{
+    width: 100%;
+    }
+	#sidebar,.one-column li.child-text{
+	float: none;
+	width: 100%;
+	}
+	.slider-container{
+	height: 165px;
+	}
+    .fsubheading, .home-box { width: 94% }
+
+	.single-header .comment, .normal-thumbnail img.wp-post-image,
+	.single-thumbnail img, .top-navigation select,.main-navigation select,
+	.logo img, .box-ads img {
+		width: 100%;
+	}
+	h2 .social-widget{
+		float: none;
+		margin-top: 10px;
+	}
+	#related-posts ul li, .footer-bottom .left, .footer-bottom .right, .one-column li.main-news, section.one-column li.main-news, section.two-column li.main-news, li.box-recent, .primary-navigation-wrap, #full .primary-navigation-wrap{
+		float: none;
+		width: auto;
+	}
+	.box, article.post-item .post-content {
+		padding: 0;
+	}
+	.logo, .post-thumbnail{
+		float: none;
+		text-align: center;
+	}
+	.top-banner, .post-thumbnail {
+		margin: 0;
+	}
+	#back-top,a.random, .post-sharing, .top-navigation div, .main-navigation div, .flex-caption p, .flex-control-nav, div.date-header, a.nav-box, #breaking-container, div.banner404 h1, .share-search, .random, .morphsearch {
+		display: none;
+		visibility: hidden;
+	}
+	.top-navigation select, .main-navigation select, .switch-button{
+		display: block;
+		visibility: visible;
+	}
+	.single-box h2, .single-header h1, #related-posts ul, .footer-bottom{
+		text-align: center;
+	}
+	.stickynav {
+    position: initial;
+    }
+	.two-c-a #footer-first, .two-c-a #footer-second, .two-c-a #footer-third, .two-c-a #footer-fourth {
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	#footer-container div#footer-first, #footer-container  div#footer-second, #footer-container  div#footer-third, #footer-container  div#footer-fourth {
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	div.logo{
+		margin-left: 0;
+		margin-right: 0;
+	}
+	/* ----------------------------------------------------------- */
+	/* # Individual
+	/* ----------------------------------------------------------- */
+    #main-nav{padding: 10px 20px;}
+	div.flex-caption {padding: 5px 5px 5px 10px;}
+	div.flex-caption h2 {font-size: 13px;font-weight: normal;margin: 0;}
+	.jcarousel-skin-tango .jcarousel-container-horizontal {padding: 20px 41px;}
+	.social-counter a, ul.tabs-header li  {width: 33%;}
+	.widget-sidebar .social-widget {margin: 0px;}
+	.post-image-widget li {margin: 0px 9px 0px 0px;}
+	.single-header h1{padding: 15px 15px 17px;}
+	.respond-date, .comment-date{display: none;}
+
+}
+@media only screen and (max-width: 479px) and (min-width: 349px) {
+	/* ----------------------------------------------------------- */
+	/* # GLOBAL
+	/* ----------------------------------------------------------- */
+	.box, .top-wrap{
+		width: 300px;
+	}
+	.stickynav {position: initial;}
+	.fpage-cat {width: 98%; margin: 10px 0;}
+    .fsubheading { width: 94% }
+    #main-nav{padding: 10px 20px;}
+	.home-separator {
+    clear: both;
+    background: #A1A1A1 none repeat scroll 0% 0%;
+    margin: 20px 0px;
+    height: 3px;
+    border-left: 50px solid #007FFF;
+    border-right: 50px solid #007FFF;
+    }
+	.cbp-qtrotator .cbp-qtcontent img {
+    float: none;
+    margin: 1.5em 1.5em 1.5em 3em;
+     }
+
+	li.main-news .box-thumbnail .boxall {
+    padding: 30px 6.55738% 20px;
+    opacity: 1;
+    width: 86.9%;
+    background-image: linear-gradient(to bottom, transparent 0px, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0.6) 100%);
+    position: absolute;
+    bottom: -246px;
+	}
+	.container, header, .header-container, .top-banner, .content, #footer-container, .footer-bottom, #sidebar {
+		width: 280px;
+	}
+	.slider-container{
+		height: 165px;
+	}
+
+	section.normal-column, section.two-column .home-box{
+		width: 278px;
+	}
+
+	.two-column li.main-news .box-thumbnail img {
+		width: 278px;
+	}
+	.main-news div.box-thumbnail img.wp-post-image{
+		width: 100%;
+	}
+	.single-header .comment, .normal-thumbnail img.wp-post-image,
+	.single-thumbnail img, .top-navigation select,
+	.logo img, .box-ads img {
+		width: 100%;
+	}
+	h2 .social-widget{
+		float: none;
+		margin-top: 10px;
+	}
+	#related-posts ul li, .footer-bottom .left, .footer-bottom .right, .one-column li.main-news,
+	section.one-column li.main-news, section.two-column li.main-news, li.box-recent, 
+	.primary-navigation-wrap, #full .primary-navigation-wrap{
+		float: none;
+		width: auto;
+	}
+	.box, article.post-item .post-content {
+		padding: 0;
+	}
+	.logo, .post-thumbnail{
+		float: none;
+		text-align: center;
+	}
+	.top-banner, .post-thumbnail {
+		margin: 0;
+	}
+	.flex-caption em, .social-icons a ,.slider_readmore, #back-top,a.random, .post-sharing, .top-navigation div, .main-navigation div, .flex-caption p, .flex-control-nav, div.date-header, a.nav-box, #breaking-container, div.banner404 h1, .share-search, .random, .morphsearch {
+		display: none;
+		visibility: hidden;
+	}
+	.top-navigation select,.main-navigation select, .switch-button{
+		display: block;
+		visibility: visible;
+	}
+	.single-box h2, .single-header h1, #related-posts ul, .footer-bottom{
+		text-align: center;
+	}
+	.two-c-a #footer-first, .two-c-a #footer-second, .two-c-a #footer-third, .two-c-a #footer-fourth {
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	#footer-container div#footer-first, #footer-container  div#footer-second, #footer-container  div#footer-third, #footer-container  div#footer-fourth {
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	div.logo{
+		margin-left: 0;
+		margin-right: 0;
+	}
+	/* ----------------------------------------------------------- */
+	/* # Individual
+	/* ----------------------------------------------------------- */
+	div.flex-caption {padding: 5px 5px 5px 10px;}
+	div.flex-caption h2 {font-size: 13px;font-weight: normal;margin: 0;}
+	.jcarousel-skin-tango .jcarousel-container-horizontal {padding: 20px 41px;}
+	.social-counter a, ul.tabs-header li  {width: 92px;}
+	.widget-sidebar .social-widget {margin: -15px -15px -20px -15px;}
+	.post-image-widget li {margin: 0px 9px 0px 0px;}
+	.single-header h1{padding: 15px 15px 17px;}
+	.respond-date, .comment-date{display: none;}
+}
+
+@media only screen and (max-width: 767px) and (min-width: 480px) {
+	/* ----------------------------------------------------------- */
+	/* # GLOBAL
+	/* ----------------------------------------------------------- */
+    .box, .top-wrap{
+		width: 100%;
+	}
+	.stickynav {
+    position: initial;
+    }
+    #main-nav{padding: 10px 20px;}
+    .main-news div.box-thumbnail img.wp-post-image {
+    width: 100%;
+    }
+    li.main-news .box-thumbnail .boxall {
+    padding: 30px 6.55738% 20px;
+    opacity: 1;
+    width: 86.9%;
+    background-image: linear-gradient(to bottom, transparent 0px, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0.6) 100%);
+    position: absolute;
+    bottom: -391px;
+    }
+    .fpage-cat  { min-width: 200px; width: 45%;  }
+	.container, header, .header-container, .top-banner, .content, #footer-container, .footer-bottom, #sidebar {
+		width: 440px;
+	}
+	.slider-container{
+		height: 259px;
+	}
+	section.two-column .home-box{
+		width: auto;
+	}
+	li.child-news{
+		width: 407px !important;
+	}
+
+	.single-header .comment, .normal-thumbnail img.wp-post-image , .single-thumbnail img, .box-ads img  {
+		width: 100%;
+	}
+	.top-navigation select {width:30%;
+	}
+	#top-nav{
+		width: 35%;
+	}
+	h2 .social-widget{
+		float: none;
+		margin-top: 10px;
+	}
+	#related-posts ul li, .footer-bottom .left, .footer-bottom .right, .one-column li.main-news, section.one-column li.main-news, section.two-column li.main-news, li.box-recent, .primary-navigation-wrap, #full .primary-navigation-wrap{
+		float: none;
+		width: auto;
+	}
+	.box, article.post-item .post-content {
+		padding: 0;
+	}
+	.logo, .post-thumbnail{
+		float: none;
+		text-align: center;
+	}
+	.top-banner, .post-thumbnail {
+		margin: 0;
+	}
+	.flex-caption em, .slider_readmore,#back-top, .post-sharing,a.random, .top-navigation div, .main-navigation div, .flex-control-nav,div.date-header, #breaking-container, div.banner404 h1 {
+		display: none;
+		visibility: hidden;
+	}
+	.top-navigation select, .main-navigation select {
+		display: block;
+		visibility: visible;
+	}
+	.single-box h2, .single-header h1, #related-posts ul, .footer-bottom, .one-column li.main-news, .two-column li.main-news{
+		text-align: center;
+	}
+	.two-c-a #footer-first, .two-c-a #footer-second, .two-c-a #footer-third, .two-c-a #footer-fourth {
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	#footer-container div#footer-first, #footer-container  div#footer-second, #footer-container  div#footer-third, #footer-container  div#footer-fourth {
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	div.logo{
+		margin-left: 0;
+		margin-right: 0;
+	}
+	/* ----------------------------------------------------------- */
+	/* # Individual
+	/* ----------------------------------------------------------- */
+	div.flex-caption {padding: 5px 5px 5px 10px;}
+	.jcarousel-skin-tango .jcarousel-container-horizontal {padding: 17px;}
+	.social-counter a, ul.tabs-header li  {width: 33%;}
+	.grid figure {
+      display: inline-block;
+      float: none;
+      margin: 10px auto; width: 0;
+     }
+	.post-image-widget{padding: 0 35px;}
+	.post-image-widget li {margin: 0px 9px 0px 0px;}
+	section.normal-column{float:none;margin:0 auto;margin-bottom:15px;}
+	section.last{clear:none;margin:0 auto 15px !important;}
+	.pagination{}
+}
+
+@media only screen and (max-width: 1023px) and (min-width: 768px) {
+	/* ----------------------------------------------------------- */
+	/* # GLOBAL
+	/* ----------------------------------------------------------- */
+    
+    #main-nav{padding: 10px 20px;}
+	.box, .top-wrap{
+		width: 690px;
+	}
+   .stickynav {
+    position: initial;
+    }
+	.container, header, .header-container, .top-banner, .content, #footer-container, .footer-bottom, #sidebar {
+		width: 654px;
+	}
+	.slider-container{
+		height: 382px;
+	}
+	.normal-thumbnail img.wp-post-image , .single-thumbnail img, .box-ads img {
+		width: 100%;
+	}
+	.top-navigation select {
+	width:35%;}
+	#top-nav{
+		width: 32%;
+	}
+	.footer-bottom .left, .footer-bottom .right, .primary-navigation-wrap, #full .primary-navigation-wrap{
+		float: none;
+		width: auto;
+	}
+	.box, article.post-item .post-content {
+		padding: 0;
+	}
+	.logo{
+		float: none;
+		text-align: center;
+	}
+	.top-banner {
+		margin: 0;
+	}
+	.flex-caption em, .slider_readmore, #back-top, .post-sharing, .top-navigation div, .main-navigation div, .flex-control-nav, #breaking-container, div.banner404 h1 {
+		display: none;
+		visibility: hidden;
+	}
+	.top-navigation select, .main-navigation select {
+		display: block;
+		visibility: visible;
+	}
+	.single-header h1, .footer-bottom{
+		text-align: center;
+	}
+	.two-c-a #footer-first, .two-c-a #footer-second, .two-c-a #footer-third, .two-c-a #footer-fourth {
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	#footer-container div#footer-first, #footer-container  div#footer-second, #footer-container  div#footer-third, #footer-container  div#footer-fourth {
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	div.logo{
+		margin-left: 0;
+		margin-right: 0;
+	}
+	/* ----------------------------------------------------------- */
+	/* # Individual
+	/* ----------------------------------------------------------- */
+	#sidebar {
+		-moz-column-count: 2;
+		-moz-column-gap: 10px;
+		-webkit-column-count: 2;
+		-webkit-column-gap: 10px;
+	}
+}

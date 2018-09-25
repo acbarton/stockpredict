@@ -1,0 +1,966 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Madar Lite\n"
+"POT-Creation-Date: 2016-05-14 20:01+0100\n"
+"PO-Revision-Date: 2016-05-14 20:02+0100\n"
+"Last-Translator: Abderrezak El-Mahdi <abderrezak31@gmail.com>\n"
+"Language-Team: Abderrezak El-Mahdi <abderrezak31@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "Error"
+msgstr ""
+
+#: 404.php:6
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:7
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps options "
+"below will help."
+msgstr ""
+
+#: 404.php:13 front-page.php:145
+msgid "Category"
+msgstr ""
+
+#: 404.php:17
+msgid "Tags"
+msgstr ""
+
+#: 404.php:24
+msgid "Monthly Archive"
+msgstr ""
+
+#: 404.php:28
+msgid "Recent Post"
+msgstr ""
+
+#: archive.php:11
+msgid "Daily Archives"
+msgstr ""
+
+#: archive.php:13
+msgid "Monthly Archives"
+msgstr ""
+
+#: archive.php:15
+msgid "Yearly Archives"
+msgstr ""
+
+#: archive.php:17
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:27 category.php:17 functions.php:217 search.php:16
+msgid "Written on "
+msgstr ""
+
+#: archive.php:27 category.php:17 functions.php:217 search.php:16 tag.php:20
+msgid ", by "
+msgstr ""
+
+#: archive.php:32 category.php:22 front-page.php:83 search.php:21 tag.php:25
+msgid "Read more"
+msgstr ""
+
+#: archive.php:35 category.php:25 functions.php:199 search.php:24 tag.php:28
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:35 category.php:25 functions.php:199 functions.php:380
+#: search.php:24 tag.php:28
+msgid "Comment"
+msgstr ""
+
+#: archive.php:35 category.php:25 functions.php:199 functions.php:346
+#: functions.php:377 search.php:24 tag.php:28
+msgid "Comments"
+msgstr ""
+
+#: archive.php:36 category.php:26 functions.php:200 search.php:25 tag.php:29
+msgid "Categories: "
+msgstr ""
+
+#: archive.php:42 category.php:33 functions.php:230 tag.php:35
+msgid "There has been an error."
+msgstr ""
+
+#: archive.php:43 category.php:34 functions.php:231 tag.php:36
+msgid ""
+"We apologize for any inconvenience, please hit back on your browser or use "
+"the search form below."
+msgstr ""
+
+#: category.php:8
+msgid "Category Archives:"
+msgstr ""
+
+#: comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:12
+msgid "No comments"
+msgstr ""
+
+#: comments.php:12
+msgid "One comment"
+msgstr ""
+
+#: comments.php:12
+msgid "comments"
+msgstr ""
+
+#: comments.php:17
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:18
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:45
+msgid "Name"
+msgstr ""
+
+#: comments.php:47
+msgid "Email"
+msgstr ""
+
+#: comments.php:49
+msgid "Website"
+msgstr ""
+
+#: comments.php:52
+msgid " Required fields are marked"
+msgstr ""
+
+#: comments.php:56
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:57
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:58
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:59
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:60
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:61
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:62
+msgid "Post Comment"
+msgstr ""
+
+#: footer.php:51
+msgid "Switch to Desktop"
+msgstr ""
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:54
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:56
+#, php-format
+msgid "Theme: %2$s by %1$s."
+msgstr ""
+
+#: front-page.php:143
+msgid "Read All"
+msgstr ""
+
+#: front-page.php:145
+msgid "No Posts for"
+msgstr ""
+
+#: functions.php:63
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:65
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:77
+msgid "Madar Lite Panel"
+msgstr ""
+
+#: functions.php:91
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:102
+msgid "Footer "
+msgstr ""
+
+#: functions.php:104
+msgid "Put widget Here! "
+msgstr ""
+
+#: functions.php:125
+msgid "Use WordPress Menu builder OR Customizer to Manage Menus"
+msgstr ""
+
+#: functions.php:143
+msgid " Continue Reading &raquo;"
+msgstr ""
+
+#: functions.php:165
+msgid ", "
+msgstr ""
+
+#: functions.php:207 inc/options/slider.php:45
+msgid "Read More"
+msgstr ""
+
+#: functions.php:223
+msgid "Newer News"
+msgstr ""
+
+#: functions.php:224
+msgid "Older News"
+msgstr ""
+
+#: functions.php:245
+msgid "Next page"
+msgstr ""
+
+#: functions.php:246
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:344
+msgid "0"
+msgstr ""
+
+#: functions.php:348
+msgid "reply"
+msgstr ""
+
+#: functions.php:352 functions.php:384
+msgid "Closed"
+msgstr ""
+
+#: functions.php:374
+msgid "Be First!"
+msgstr ""
+
+#: header.php:15
+msgid "Skip to Content"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Site title/tagline"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:69
+msgid "Check this box to enable Top Advertisement (728x90)"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Top Advertisement Image"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Upload/Select an Advertisement Image. Recommended Size(728x90)"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Enter the Top Advertisement URL"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Primary color"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Homepage layout"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Boxed Page"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Full Page"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Upload your Logo"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Displayed instead of the site Title and Description"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "To Enable Top Header Menu"
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "To Enable Top Header Date/Time"
+msgstr ""
+
+#: inc/customizer.php:231
+msgid "To Enable Random Posts Button"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "To Enable Sticky Menu when scroll-down"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "To Enable Breaking news ticker"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Show Recent Posts Carousel"
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "To Enable Related Posts with Tags"
+msgstr ""
+
+#: inc/customizer.php:308
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:324
+msgid "To Enable Go Top button"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "Footer widget area"
+msgstr ""
+
+#: inc/customizer.php:344
+msgid ""
+"Select the number of widgets areas in the footer. After that, go to "
+"Appearance > Widgets and add your widgets."
+msgstr ""
+
+#: inc/customizer.php:346 inc/customizer.php:453
+msgid "One"
+msgstr ""
+
+#: inc/customizer.php:347 inc/customizer.php:454
+msgid "Two"
+msgstr ""
+
+#: inc/customizer.php:348 inc/customizer.php:455
+msgid "Three"
+msgstr ""
+
+#: inc/customizer.php:349 inc/customizer.php:456
+msgid "Four"
+msgstr ""
+
+#: inc/customizer.php:365
+msgid "To Enable Switch to desktop button"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Flexy Slider"
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "Show Flexy Slider"
+msgstr ""
+
+#: inc/customizer.php:402
+msgid "Select which category to show in Flexslider"
+msgstr ""
+
+#: inc/customizer.php:419
+msgid "Enter the number of posts you want to show"
+msgstr ""
+
+#: inc/customizer.php:468
+msgid "Classic"
+msgstr ""
+
+#: inc/customizer.php:469
+msgid "Full width (no sidebar)"
+msgstr ""
+
+#: inc/customizer.php:483
+msgid "box homepage"
+msgstr ""
+
+#: inc/customizer.php:484
+msgid "blog home page width "
+msgstr ""
+
+#: inc/options/breadcrumbs.php:7
+msgid "Home"
+msgstr ""
+
+#: inc/options/breadcrumbs.php:8
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/options/breadcrumbs.php:9
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/options/breadcrumbs.php:10
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inc/options/breadcrumbs.php:11
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inc/options/breadcrumbs.php:12
+msgid "Error 404"
+msgstr ""
+
+#: inc/options/breadcrumbs.php:117
+msgid "Page"
+msgstr ""
+
+#: inc/options/breaking.php:12
+msgid "Breaking News"
+msgstr ""
+
+#: inc/options/pagination.php:7
+msgid "&laquo; Previous Posts "
+msgstr ""
+
+#: inc/options/pagination.php:8
+msgid "Next Posts &raquo;"
+msgstr ""
+
+#: inc/options/pagination.php:25
+msgid "Page "
+msgstr ""
+
+#: inc/options/pagination.php:26
+msgid "&laquo; First"
+msgstr ""
+
+#: inc/options/pagination.php:27
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: inc/options/pagination.php:35
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: inc/options/pagination.php:36
+msgid "Last &raquo;"
+msgstr ""
+
+#: inc/options/post-nav.php:6
+msgid "Previous"
+msgstr ""
+
+#: inc/options/post-nav.php:7
+msgid "Next"
+msgstr ""
+
+#: inc/options/related.php:17
+msgid "Related Posts"
+msgstr ""
+
+#: inc/options/related.php:36
+msgid "There are no Related Post in Query"
+msgstr ""
+
+#: inc/options/slider.php:41
+msgid "Written by"
+msgstr ""
+
+#: inc/options/slider.php:42
+msgid "on"
+msgstr ""
+
+#: inc/options/wp_list_comments.php:9
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: inc/options/wp_list_comments.php:10
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/options/wp_list_comments.php:10 inc/options/wp_list_comments.php:30
+msgid "(Edit)"
+msgstr ""
+
+#: inc/options/wp_list_comments.php:15
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/options/wp_list_comments.php:30
+msgid "Pingback:"
+msgstr ""
+
+#: inc/theme-about.php:11
+msgid "About"
+msgstr ""
+
+#: inc/theme-about.php:11 inc/theme-about.php:30
+msgid "Madar Lite"
+msgstr ""
+
+#: inc/theme-about.php:14
+msgid ""
+"A Theme is an effort of many sleepless nights of the Developers.  If you "
+"like this FREEE Theme You can consider for a 5 star rating and honest "
+"review. Your review will inspire us."
+msgstr ""
+
+#: inc/theme-about.php:14
+msgid ""
+"Need Logo Inserter, Multilayer Slider, Unlimited Slide Items, Links from "
+"Featured Boxes, More Control, More Features and Options? Try Our extended "
+"Version of Madar Lite (Madar)"
+msgstr ""
+
+#: inc/theme-about.php:14
+msgid ""
+"for Many Exciting Features with Dedicated Support from Retina Theme team. "
+"There will be Promotional Offers. You can avail those promotions from"
+msgstr ""
+
+#: inc/theme-about.php:14
+msgid "Retina Theme Site"
+msgstr ""
+
+#: inc/theme-about.php:14
+msgid "Live Demo"
+msgstr ""
+
+#: inc/theme-about.php:14
+msgid " of Madar Extend"
+msgstr ""
+
+#: inc/theme-about.php:18
+msgid ""
+"Madar is a WordPress theme that features a clean and flexible design which "
+"suitable for wide variety of websites. This theme includes a huge theme "
+"control panel that help user to develop or customize the theme. It also "
+"includes different kind of  homepage style, widget, footer, post type, "
+"shortcode and many others. Madar also Cross-Browser and Responsive theme, "
+"has clean style and well-documented."
+msgstr ""
+
+#: inc/theme-about.php:22
+msgid "Madar Lite Demo"
+msgstr ""
+
+#: inc/theme-about.php:23
+msgid "Madar Pro Demo"
+msgstr ""
+
+#: inc/theme-about.php:24
+msgid "Madar Lite Install"
+msgstr ""
+
+#: inc/theme-about.php:27
+msgid "This is a Small features of Madar Lite vs Madar Pro"
+msgstr ""
+
+#: inc/theme-about.php:30
+msgid "FEATURES"
+msgstr ""
+
+#: inc/theme-about.php:30
+msgid "Madar Pro"
+msgstr ""
+
+#: inc/theme-about.php:31
+msgid "You will love These"
+msgstr ""
+
+#: inc/theme-about.php:31
+msgid "Free"
+msgstr ""
+
+#: inc/theme-about.php:31
+msgid "Only $25"
+msgstr ""
+
+#: inc/theme-about.php:32
+msgid "WordPress Latest Version Ready"
+msgstr ""
+
+#: inc/theme-about.php:32 inc/theme-about.php:33 inc/theme-about.php:34
+#: inc/theme-about.php:35 inc/theme-about.php:36 inc/theme-about.php:37
+#: inc/theme-about.php:39 inc/theme-about.php:40 inc/theme-about.php:41
+#: inc/theme-about.php:44 inc/theme-about.php:45 inc/theme-about.php:46
+#: inc/theme-about.php:47 inc/theme-about.php:48 inc/theme-about.php:49
+#: inc/theme-about.php:50 inc/theme-about.php:51 inc/theme-about.php:52
+#: inc/theme-about.php:53 inc/theme-about.php:54 inc/theme-about.php:55
+#: inc/theme-about.php:56 inc/theme-about.php:57 inc/theme-about.php:58
+#: inc/theme-about.php:59 inc/theme-about.php:60 inc/theme-about.php:61
+#: inc/theme-about.php:62 inc/theme-about.php:63 inc/theme-about.php:64
+#: inc/theme-about.php:65 inc/theme-about.php:66 inc/theme-about.php:67
+#: inc/theme-about.php:68 inc/theme-about.php:69 inc/theme-about.php:70
+#: inc/theme-about.php:71 inc/theme-about.php:72 inc/theme-about.php:73
+#: inc/theme-about.php:74 inc/theme-about.php:75 inc/theme-about.php:76
+#: inc/theme-about.php:77
+msgid "YES"
+msgstr ""
+
+#: inc/theme-about.php:33
+msgid "Sophisticated, Lightweight, and Adaptable"
+msgstr ""
+
+#: inc/theme-about.php:34
+msgid "Widgets Ready, Right Sidebar & Footer Sidebar"
+msgstr ""
+
+#: inc/theme-about.php:35
+msgid "Excellent and Easy Theme Options"
+msgstr ""
+
+#: inc/theme-about.php:35 inc/theme-about.php:36 inc/theme-about.php:37
+#: inc/theme-about.php:39 inc/theme-about.php:40 inc/theme-about.php:41
+#: inc/theme-about.php:45 inc/theme-about.php:46 inc/theme-about.php:48
+#: inc/theme-about.php:49 inc/theme-about.php:50 inc/theme-about.php:51
+#: inc/theme-about.php:54 inc/theme-about.php:55 inc/theme-about.php:56
+#: inc/theme-about.php:57 inc/theme-about.php:58 inc/theme-about.php:59
+#: inc/theme-about.php:60 inc/theme-about.php:63 inc/theme-about.php:64
+#: inc/theme-about.php:65 inc/theme-about.php:66 inc/theme-about.php:67
+#: inc/theme-about.php:68 inc/theme-about.php:69 inc/theme-about.php:70
+#: inc/theme-about.php:71 inc/theme-about.php:72 inc/theme-about.php:73
+#: inc/theme-about.php:74 inc/theme-about.php:75 inc/theme-about.php:76
+#: inc/theme-about.php:77
+msgid "NO"
+msgstr ""
+
+#: inc/theme-about.php:36
+msgid "Customizer Options"
+msgstr ""
+
+#: inc/theme-about.php:37
+msgid "Multiple Options to Control the look of Front Page"
+msgstr ""
+
+#: inc/theme-about.php:38
+msgid "Multi Layer Slider with Flexible Options"
+msgstr ""
+
+#: inc/theme-about.php:38
+msgid "Only 02"
+msgstr ""
+
+#: inc/theme-about.php:38 inc/theme-about.php:43
+msgid "Unlimited"
+msgstr ""
+
+#: inc/theme-about.php:39
+msgid "Unlimited Slide Items"
+msgstr ""
+
+#: inc/theme-about.php:40
+msgid "Slide Control, Navigation, Slide Number etc."
+msgstr ""
+
+#: inc/theme-about.php:41
+msgid "More Slider Controlling Options"
+msgstr ""
+
+#: inc/theme-about.php:42
+msgid "Slider Animation Type"
+msgstr ""
+
+#: inc/theme-about.php:43
+msgid "Advertisement Options"
+msgstr ""
+
+#: inc/theme-about.php:44
+msgid "Heading, Sub Heading, Special News Controlling"
+msgstr ""
+
+#: inc/theme-about.php:45
+msgid "Heading, Sub Heading, Category News Number can be set"
+msgstr ""
+
+#: inc/theme-about.php:46
+msgid "No News Repetation though a News may have in Multiple Categories"
+msgstr ""
+
+#: inc/theme-about.php:47
+msgid "Breaking News ticker"
+msgstr ""
+
+#: inc/theme-about.php:48
+msgid "Gallery Box"
+msgstr ""
+
+#: inc/theme-about.php:49
+msgid "Popular News"
+msgstr ""
+
+#: inc/theme-about.php:50
+msgid "Editor Choice"
+msgstr ""
+
+#: inc/theme-about.php:51
+msgid "Maintenance Mode"
+msgstr ""
+
+#: inc/theme-about.php:52
+msgid "RESPONSIVE"
+msgstr ""
+
+#: inc/theme-about.php:53
+msgid "Logo and Favicon Inserter Option"
+msgstr ""
+
+#: inc/theme-about.php:54
+msgid "Google Analytics Code, Custom CSS and Scripts Inserter"
+msgstr ""
+
+#: inc/theme-about.php:55
+msgid "Customizable Copyright Notice and SiteMap Option"
+msgstr ""
+
+#: inc/theme-about.php:56
+msgid "Hiding options for Theme Credit to Retina Theme and WordPress"
+msgstr ""
+
+#: inc/theme-about.php:57
+msgid "PSD Files Included"
+msgstr ""
+
+#: inc/theme-about.php:58
+msgid "E-Commerce Ready by WooCommerce!"
+msgstr ""
+
+#: inc/theme-about.php:59
+msgid "Forum Platform Ready by bbpress!"
+msgstr ""
+
+#: inc/theme-about.php:60
+msgid "Community platform Ready by buddypress!"
+msgstr ""
+
+#: inc/theme-about.php:61
+msgid "Easy Color Changing Options"
+msgstr ""
+
+#: inc/theme-about.php:62
+msgid "Unlimited Color, You can set your own COLORS for your site"
+msgstr ""
+
+#: inc/theme-about.php:63
+msgid ""
+"Font Size, Font Face, Font Color Customization Options for Page/Post Title, "
+"Body, Heading etc..."
+msgstr ""
+
+#: inc/theme-about.php:64
+msgid "Site-wide Comments Box Disabled Option"
+msgstr ""
+
+#: inc/theme-about.php:65
+msgid "Disable Option of Logged In User Admin Bar"
+msgstr ""
+
+#: inc/theme-about.php:66
+msgid "Membership Registration and Log In Panel Available"
+msgstr ""
+
+#: inc/theme-about.php:67
+msgid "Members rate and put Reviews for posts and articles"
+msgstr ""
+
+#: inc/theme-about.php:68
+msgid "Members react with the content via social media"
+msgstr ""
+
+#: inc/theme-about.php:69
+msgid "SEO boost ready"
+msgstr ""
+
+#: inc/theme-about.php:70
+msgid "Featured grid slider"
+msgstr ""
+
+#: inc/theme-about.php:71
+msgid "Manage hole content Via Panel"
+msgstr ""
+
+#: inc/theme-about.php:72
+msgid "Insert different Shortcodes"
+msgstr ""
+
+#: inc/theme-about.php:73
+msgid "Unlimited sidebars"
+msgstr ""
+
+#: inc/theme-about.php:74
+msgid "Full integrated Build in System"
+msgstr ""
+
+#: inc/theme-about.php:75
+msgid "Manage and Add Custom images"
+msgstr ""
+
+#: inc/theme-about.php:76
+msgid "Site Logo and Url can be displayed in Login Page, Own Branding!"
+msgstr ""
+
+#: inc/theme-about.php:77
+msgid "Social Links including Facebook, Twitter etc."
+msgstr ""
+
+#: inc/theme-about.php:78
+msgid "Awesome Support with Forum and Dedicated E-Mail"
+msgstr ""
+
+#: inc/theme-about.php:78
+msgid "Only Forum"
+msgstr ""
+
+#: inc/theme-about.php:78
+msgid "Forum and E-Mail"
+msgstr ""
+
+#: inc/theme-about.php:80
+msgid "Learn More"
+msgstr ""
+
+#: inc/theme-about.php:82
+msgid "* Each Extend Theme is only $25 with Permanent Support"
+msgstr ""
+
+#: inc/theme-about.php:85
+msgid "Learn More about our Flexible Membership Options"
+msgstr ""
+
+#: inc/theme-about.php:86 inc/theme-about.php:109
+msgid "View Pricing and Features"
+msgstr ""
+
+#: inc/theme-about.php:94
+msgid "Madar Pro Responsive and Premium WordPress Themes"
+msgstr ""
+
+#: inc/theme-about.php:95
+msgid ""
+"Are You Ready to take your WordPress site to the Highest level? Give your "
+"CMS a beautiful design to draw in more visitors. Peoples love us because of "
+"the Performance of our Theme Madar Pro. We deliver User Friendly Responsive "
+"and Premium WordPress Theme with Unique and Modern Design. You can Trust our "
+"Madar Pro Theme"
+msgstr ""
+
+#: inc/theme-about.php:97
+msgid "Visit Our Site"
+msgstr ""
+
+#: inc/theme-about.php:98
+msgid "Visit Theme Demo"
+msgstr ""
+
+#: inc/theme-about.php:99
+msgid "Become a Happy Member"
+msgstr ""
+
+#: inc/theme-about.php:108
+msgid "Madar Pro Theme is only $25 with Permanent Support"
+msgstr ""
+
+#: page.php:16
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: search.php:8
+msgid "Search Result for"
+msgstr ""
+
+#: search.php:31
+msgid "No Results"
+msgstr ""
+
+#: search.php:32
+msgid "Please feel free try again!"
+msgstr ""
+
+#: searchform.php:2 searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: single.php:16
+msgid "by"
+msgstr ""
+
+#: tag.php:11
+msgid "Tag Archives:"
+msgstr ""
+
+#: template-parts/recentbox.php:13
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/madar-category.php:41
+msgid ""
+"Enter the slug for your category or leave empty to show posts from all "
+"categories."
+msgstr ""

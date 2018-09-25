@@ -1,0 +1,1022 @@
+# Copyright (C) 2013 Ad King Pro
+# This file is distributed under the same license as the Ad King Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ad King Pro 1.9.8\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/adkingpro\n"
+"POT-Creation-Date: 2013-12-04 19:55:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-02-28 10:39+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: adkingpro.php:142
+msgid "Settings"
+msgstr "Postavke"
+
+#: includes/admin_area.php:19
+msgid ""
+"capabilities haven't been added to the list which will prevent you from "
+"using Ad King Pro. <strong>Please deactivate and reactivate the plugin to "
+"add these</strong>."
+msgstr ""
+"mogućnosti nisu dodate na listu koja će vas sprečiti da koristite Ad King "
+"Pro. <strong> deaktivirate i reaktiviraj plugin za dodavanje ovoga</ "
+"strong> ."
+
+#: includes/admin_area.php:84
+msgid "Adverts"
+msgstr "Oglasi"
+
+#: includes/admin_area.php:85
+msgid "Advert"
+msgstr "Oglas"
+
+#: includes/admin_area.php:86
+msgid "All Adverts"
+msgstr "Svi oglasi"
+
+#: includes/admin_area.php:87
+msgid "Edit Advert"
+msgstr "Edituj oglas"
+
+#: includes/admin_area.php:88
+msgid "Update Advert"
+msgstr "Update-uj oglas"
+
+#: includes/admin_area.php:89
+msgid "Add New Advert"
+msgstr "Dodaj novi oglas"
+
+#: includes/admin_area.php:90
+msgid "New Advert"
+msgstr "Novi oglas"
+
+#: includes/admin_area.php:116
+msgid "Advert Types"
+msgstr "Tipovi oglasa"
+
+#: includes/admin_area.php:117 includes/admin_area.php:697
+msgid "Advert Type"
+msgstr "Tp oglasa"
+
+#: includes/admin_area.php:118
+msgid "All Advert Types"
+msgstr "Svi tipovi oglasa"
+
+#: includes/admin_area.php:119
+msgid "Edit Advert Type"
+msgstr "Edituj tip oglasa"
+
+#: includes/admin_area.php:120
+msgid "Update Advert Type"
+msgstr "Update-uj tip oglasa"
+
+#: includes/admin_area.php:121
+msgid "Add New Advert Type"
+msgstr "Dodaj novi ti poglasa"
+
+#: includes/admin_area.php:122
+msgid "New Advert Type"
+msgstr "Novi tip oglasa"
+
+#: includes/admin_area.php:123
+msgid "Search Advert Types"
+msgstr "Pretražitit tipove oglasa"
+
+#: includes/admin_area.php:203
+msgid "Leave the below blank to use the full size of the image you upload."
+msgstr "Ostavite prazno da biste koristili celu veličinu slike za upload."
+
+#: includes/admin_area.php:207
+msgid "Set width of advert"
+msgstr "Podesiti širinu oglasa"
+
+#: includes/admin_area.php:210 includes/admin_area.php:217
+msgid "If variable, please leave blank"
+msgstr "Ako je promenjljivo, ostaviti prazno"
+
+#: includes/admin_area.php:214
+msgid "Set height of advert"
+msgstr "Podesiti visinu oglasa"
+
+#: includes/admin_area.php:221
+msgid "Hard crop image?"
+msgstr "Kropirati sliku?"
+
+#: includes/admin_area.php:326
+msgid "Advert URL ie http://kingpro.me/plugins/ad-king-pro"
+msgstr "URL oglasa ie http://kingpro.me/plugins/ad-king-pro"
+
+#: includes/admin_area.php:334
+msgid "Media Type"
+msgstr "Tip Medija"
+
+#: includes/admin_area.php:338 includes/admin_area.php:341
+#: includes/admin_area.php:698
+msgid "Advert Image"
+msgstr "Slika oglasa"
+
+#: includes/admin_area.php:339
+msgid "Advert Image Attributes"
+msgstr "Atributi slike oglasa"
+
+#: includes/admin_area.php:342
+msgid "Advert Flash File"
+msgstr "Flash fajl oglasa"
+
+#: includes/admin_area.php:343
+msgid "Advert HTML5 File"
+msgstr " HTML5 fajl oglasa"
+
+#: includes/admin_area.php:344
+msgid "Advert AdSense Code"
+msgstr "AdSense kod oglasa"
+
+#: includes/admin_area.php:345
+msgid "Advert Text"
+msgstr "Tekst oglasa"
+
+#: includes/admin_area.php:346
+msgid "Advert Stats"
+msgstr "Statistike oglasa"
+
+#: includes/admin_area.php:347
+msgid "Advert Revenue"
+msgstr "Prihod oglasa"
+
+#: includes/admin_area.php:348
+msgid "Link Options"
+msgstr "Opcije linka"
+
+#: includes/admin_area.php:378
+msgid "Expire on"
+msgstr "Ističe na"
+
+#: includes/admin_area.php:380
+msgid "Edit"
+msgstr "Edituj"
+
+#: includes/admin_area.php:382
+msgid "01-Jan"
+msgstr "01-Jan"
+
+#: includes/admin_area.php:383
+msgid "02-Feb"
+msgstr "02-Feb"
+
+#: includes/admin_area.php:384
+msgid "03-Mar"
+msgstr "03-Mar"
+
+#: includes/admin_area.php:385
+msgid "04-Apr"
+msgstr "04-Apr"
+
+#: includes/admin_area.php:386
+msgid "05-May"
+msgstr "05-Maj"
+
+#: includes/admin_area.php:387
+msgid "06-Jun"
+msgstr "06-Jun"
+
+#: includes/admin_area.php:388
+msgid "07-Jul"
+msgstr "07-Jul"
+
+#: includes/admin_area.php:389
+msgid "08-Aug"
+msgstr "08-Avg"
+
+#: includes/admin_area.php:390
+msgid "09-Sep"
+msgstr "09-Sep"
+
+#: includes/admin_area.php:391
+msgid "10-Oct"
+msgstr "10-Oct"
+
+#: includes/admin_area.php:392
+msgid "11-Nov"
+msgstr "11-Nov"
+
+#: includes/admin_area.php:393
+msgid "12-Dec"
+msgstr "12-Dec"
+
+#: includes/admin_area.php:405
+msgid "OK"
+msgstr "OK"
+
+#: includes/admin_area.php:406
+msgid "Cancel"
+msgstr "Ukinuti"
+
+#: includes/admin_area.php:407
+msgid "Set to Never"
+msgstr "Podesiti na Nikada"
+
+#: includes/admin_area.php:424
+msgid "Image"
+msgstr "Slika"
+
+#: includes/admin_area.php:425
+msgid "HTML5"
+msgstr "HTML5"
+
+#: includes/admin_area.php:426
+msgid "Flash"
+msgstr "Fleš"
+
+#: includes/admin_area.php:427
+msgid "AdSense"
+msgstr "AdSense"
+
+#: includes/admin_area.php:428
+msgid "Text"
+msgstr "Tekst"
+
+#: includes/admin_area.php:439
+msgid "Upload Image"
+msgstr "Upload slike"
+
+#: includes/admin_area.php:440
+msgid ""
+"Enter a URL or upload an image (You are seeing this box as you have disabled "
+"\"post-thumbnails\" support.)"
+msgstr ""
+"Unesite URL ili uploadujte slike(Videćete ovaj pravougaonik nakon što "
+"onemogućite \"post-thumbnails\" podršku.)"
+
+#: includes/admin_area.php:442 includes/admin_area.php:451
+msgid "Banner description (this will be added to the alt tag on the image)"
+msgstr "Opis banera (ovo će biti dodato na alt tag na slici)"
+
+#: includes/admin_area.php:463
+msgid "Upload HTML5 File"
+msgstr "Upload-uj HTML5 fajl"
+
+#: includes/admin_area.php:464
+msgid ""
+"Enter a URL or upload a HTML5 file - PLEASE NOTE: Must contain at least one "
+"(1) anchor tag (<a />) with a \"href\" attribute"
+msgstr ""
+"Uneti URL ili uploaduj HTML5 fajl IMAJTE NA UMU: Mora da sadrži najmanje "
+"jedan (1) ankor tag (<a />) sa \"href\" atributom"
+
+#: includes/admin_area.php:466
+msgid "Frame Width"
+msgstr "Širina rama"
+
+#: includes/admin_area.php:467
+msgid "Frame Height"
+msgstr "Visina rama"
+
+#: includes/admin_area.php:477
+msgid "Upload SWF File"
+msgstr "Uploaduj SWF fajl"
+
+#: includes/admin_area.php:478
+msgid "Enter a URL or upload a SWF file"
+msgstr "Uneti URL ili uploaduj SWF fajl"
+
+#: includes/admin_area.php:480
+msgid "SWF Width"
+msgstr "SWF širina"
+
+#: includes/admin_area.php:481
+msgid "SWF Height"
+msgstr "SWF visina"
+
+#: includes/admin_area.php:487
+msgid "Enter the Ad Unit Code given from your Google AdSense account"
+msgstr "Uneti Ad Unit Code sa vašeg Google AdSense naloga"
+
+#: includes/admin_area.php:489
+msgid ""
+"Please note that only impressions are tracked for these ads as the clicks "
+"are registers via AdSense"
+msgstr ""
+"imajte na umu da se samo utisci prate sa ovog oglasa jer se klikovi "
+"registruju via AdSense"
+
+#: includes/admin_area.php:496
+msgid "Enter the text you would like on the link that will be tracked"
+msgstr "Unesite tekst koji želite da bude na linku koji će biti praćen"
+
+#: includes/admin_area.php:504
+msgid "This banner has had "
+msgstr "Ovaj baner ima"
+
+#: includes/admin_area.php:504
+msgid " since being published."
+msgstr "od objavljivanja."
+
+#: includes/admin_area.php:504
+msgid "View Detailed Report"
+msgstr "Pregledati detaljni izveštaj"
+
+#: includes/admin_area.php:505
+msgid ""
+"Are you sure you want to reset the tracking data back to 0? There is no "
+"reversing this action"
+msgstr ""
+"Da li ste sigurni da želite da resetujete podatke za praćenje nazad na 0 ? "
+"Ne postoji povratak sa ove akcije"
+
+#: includes/admin_area.php:505
+msgid "Reset Tracking Data"
+msgstr "Resetuj praćenje datuma"
+
+#: includes/admin_area.php:554
+msgid "Revenue Per Impression"
+msgstr "Prihod po utisku"
+
+#: includes/admin_area.php:557
+msgid "Revenue Per Click"
+msgstr "Prihod po kliku"
+
+#: includes/admin_area.php:576
+msgid "Remove URL from link"
+msgstr "Ukloniti URL sa linka"
+
+#: includes/admin_area.php:580
+msgid "Window Target"
+msgstr "Window Target"
+
+#: includes/admin_area.php:585
+msgid "none"
+msgstr "nijedan"
+
+#: includes/admin_area.php:588
+msgid "Add \"nofollow\" to link?"
+msgstr "Dodati \"nofollow\" na link?"
+
+#: includes/admin_area.php:693
+msgid "Banner ID"
+msgstr "Baner ID"
+
+#: includes/admin_area.php:694 includes/admin_area.php:906
+#: includes/screens/detailed.php:118 includes/screens/detailed.php:119
+#: includes/screens/detailed.php:120 includes/screens/detailed.php:121
+#: includes/screens/detailed.php:143 includes/screens/detailed.php:199
+#: includes/screens/detailed.php:255 includes/screens/detailed.php:311
+#: js/adkingpro-js.php:112
+msgid "Impressions"
+msgstr "Utisci"
+
+#: includes/admin_area.php:695 includes/screens/detailed.php:149
+#: includes/screens/detailed.php:205 includes/screens/detailed.php:261
+#: includes/screens/detailed.php:317 js/adkingpro-js.php:118
+msgid "Clicks"
+msgstr "Klokovi"
+
+#: includes/admin_area.php:696
+msgid "URL"
+msgstr "URL"
+
+#: includes/admin_area.php:699
+msgid "Date"
+msgstr "Datum"
+
+#: includes/admin_area.php:721
+msgid "No Advert Types Assigned"
+msgstr "Nijedan tip oglasa nije dodeljen"
+
+#: includes/admin_area.php:906 includes/screens/detailed.php:118
+msgid "All Time"
+msgstr "Sve vreme"
+
+#: includes/admin_area.php:907 includes/screens/detailed.php:119
+msgid "This Month"
+msgstr "Ovaj mesec"
+
+#: includes/admin_area.php:908 includes/screens/detailed.php:120
+msgid "This Week"
+msgstr "Ove nedelje"
+
+#: includes/admin_area.php:909 includes/screens/detailed.php:121
+msgid "Today"
+msgstr "Danas"
+
+#: includes/admin_area.php:925
+msgid "Banner Stats Summary"
+msgstr "Statistike banera"
+
+#: includes/admin_area.php:971 includes/screens/detailed.php:3
+msgid "Detailed Stats"
+msgstr "Detalji statistike"
+
+#: includes/admin_area.php:971
+msgid "Stats"
+msgstr "Statistika"
+
+#: includes/screens/detailed.php:117
+msgid "Summary"
+msgstr "Sadržaj"
+
+#: includes/screens/detailed.php:124
+msgid "Detailed"
+msgstr "Detalji"
+
+#: includes/screens/detailed.php:126
+msgid "View all clicks"
+msgstr "Pregled svih klikova"
+
+#: includes/screens/detailed.php:127
+msgid "View this month clicks"
+msgstr "Pregled mesečnih klikova"
+
+#: includes/screens/detailed.php:128
+msgid "View this week clicks"
+msgstr "Pregled nedeljnih klikova"
+
+#: includes/screens/detailed.php:129
+msgid "View todays clicks"
+msgstr "Pregled današnjih klikova"
+
+#: includes/screens/detailed.php:130
+msgid "View date range clicks"
+msgstr "Pregled raspona klikova"
+
+#: includes/screens/detailed.php:138 includes/screens/detailed.php:194
+#: includes/screens/detailed.php:250 includes/screens/detailed.php:306
+#: js/adkingpro-js.php:107
+msgid "Count"
+msgstr "Brojanje"
+
+#: includes/screens/detailed.php:139 includes/screens/detailed.php:195
+#: includes/screens/detailed.php:251 includes/screens/detailed.php:307
+#: js/adkingpro-js.php:108
+msgid "Cost Per"
+msgstr "Po"
+
+#: includes/screens/detailed.php:140 includes/screens/detailed.php:196
+#: includes/screens/detailed.php:252 includes/screens/detailed.php:308
+#: js/adkingpro-js.php:109
+msgid "Total"
+msgstr "Total"
+
+#: includes/screens/detailed.php:157 includes/screens/detailed.php:213
+#: includes/screens/detailed.php:269 includes/screens/detailed.php:325
+#: js/adkingpro-js.php:126
+msgid "TOTAL"
+msgstr "TOTAL"
+
+#: includes/screens/detailed.php:163 includes/screens/detailed.php:219
+#: includes/screens/detailed.php:275 includes/screens/detailed.php:331
+#: js/adkingpro-js.php:132
+msgid "Download report"
+msgstr "Downloaduj izveštaj"
+
+#: includes/screens/detailed.php:163 includes/screens/detailed.php:219
+#: includes/screens/detailed.php:275 includes/screens/detailed.php:331
+#: js/adkingpro-js.php:132
+msgid "CSV"
+msgstr "CSV"
+
+#: includes/screens/detailed.php:163 includes/screens/detailed.php:219
+#: includes/screens/detailed.php:275 includes/screens/detailed.php:331
+#: js/adkingpro-js.php:132
+msgid "PDF"
+msgstr "PDF"
+
+#: includes/screens/detailed.php:169 includes/screens/detailed.php:183
+#: includes/screens/detailed.php:225 includes/screens/detailed.php:239
+#: includes/screens/detailed.php:281 includes/screens/detailed.php:295
+#: includes/screens/detailed.php:337 includes/screens/detailed.php:351
+#: js/adkingpro-js.php:138 js/adkingpro-js.php:152
+msgid "Date/Time"
+msgstr "Datum/Vreme"
+
+#: includes/screens/detailed.php:170 includes/screens/detailed.php:184
+#: includes/screens/detailed.php:226 includes/screens/detailed.php:240
+#: includes/screens/detailed.php:282 includes/screens/detailed.php:296
+#: includes/screens/detailed.php:338 includes/screens/detailed.php:352
+#: js/adkingpro-js.php:139 js/adkingpro-js.php:153
+msgid "IP Address"
+msgstr "IP Adresa"
+
+#: includes/screens/detailed.php:359
+msgid "Choose your date range"
+msgstr "Izabrati raspon datuma"
+
+#: includes/screens/detailed.php:360
+msgid "From"
+msgstr "Od"
+
+#: includes/screens/detailed.php:361
+msgid "To"
+msgstr "Za"
+
+#: includes/screens/detailed.php:362
+msgid "Search"
+msgstr "Pretraga"
+
+#: includes/screens/kpp.php:2
+msgid "Suite"
+msgstr "Paket"
+
+#: includes/screens/kpp.php:4 includes/screens/settings.php:6
+msgid "Connect"
+msgstr "Konektovati"
+
+#: includes/screens/kpp.php:6 includes/screens/settings.php:8
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/screens/kpp.php:7 includes/screens/settings.php:9
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/screens/kpp.php:8 includes/screens/settings.php:10
+msgid "Google+"
+msgstr "Google+"
+
+#: includes/screens/kpp.php:14
+msgid "Available Plugins"
+msgstr "Dostupni pluginovi"
+
+#: includes/screens/kpp.php:18
+msgid "Upload. Link. Go."
+msgstr "Uploaduj. Link. Kreni."
+
+#: includes/screens/kpp.php:19 includes/screens/kpp.php:25
+#: includes/screens/kpp.php:31 includes/screens/kpp.php:37
+#: includes/screens/kpp.php:43 includes/screens/kpp.php:49
+msgid "More information about"
+msgstr "Više informacija o"
+
+#: includes/screens/kpp.php:19 includes/screens/kpp.php:25
+#: includes/screens/kpp.php:31 includes/screens/kpp.php:37
+#: includes/screens/kpp.php:43 includes/screens/kpp.php:49
+msgid "Install"
+msgstr "Instaliraj"
+
+#: includes/screens/kpp.php:24
+msgid "Invoicing made easy!"
+msgstr "Jednostavno fakturisanje!"
+
+#: includes/screens/kpp.php:30
+msgid "RSS feeds your way"
+msgstr "RSS feeds "
+
+#: includes/screens/kpp.php:36
+msgid "Site details the way you need them"
+msgstr "Detalji o sajtu koji vam trebaju"
+
+#: includes/screens/kpp.php:42
+msgid "Send mail from WP from your email"
+msgstr "Pošaljite mail od WP sa vašeg emaila"
+
+#: includes/screens/kpp.php:48
+msgid "Keep traffic on your site"
+msgstr "Održavajte saobraćaj na vašem sajtu"
+
+#: includes/screens/settings.php:12 includes/screens/settings.php:209
+msgid "Found an issue? Post your issue on the"
+msgstr "Naišli ste na problem? Postujte to ovde"
+
+#: includes/screens/settings.php:12 includes/screens/settings.php:209
+msgid "support forums"
+msgstr "forumi za podršku"
+
+#: includes/screens/settings.php:12 includes/screens/settings.php:209
+msgid "If you would prefer, please email your concern to"
+msgstr "Ako biste radije hteli pošaljite nam mail"
+
+#: includes/screens/settings.php:16
+msgid "Advert Settings"
+msgstr "Postavke oglasa"
+
+#: includes/screens/settings.php:17
+msgid "How-To"
+msgstr "Kako da"
+
+#: includes/screens/settings.php:18 includes/screens/settings.php:192
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/screens/settings.php:23
+msgid "Settings have been saved"
+msgstr "Postavke su sačuvane"
+
+#: includes/screens/settings.php:27
+msgid "Settings have <strong>NOT</strong> been saved. Please try again."
+msgstr "Postavke<strong>NOT</strong> su sačuvane. Pokušajte opet."
+
+#: includes/screens/settings.php:38 includes/screens/settings.php:149
+msgid "Save Settings"
+msgstr "Sačuvati postavke"
+
+#: includes/screens/settings.php:41
+msgid "Minimum Authorised Role"
+msgstr "Minimum autorizovana usliga"
+
+#: includes/screens/settings.php:45
+msgid "Subscriber"
+msgstr "Pretplatilac"
+
+#: includes/screens/settings.php:46
+msgid "Administrator"
+msgstr "Administrator"
+
+#: includes/screens/settings.php:47
+msgid "Editor"
+msgstr "Editor"
+
+#: includes/screens/settings.php:48
+msgid "Author"
+msgstr "Autor"
+
+#: includes/screens/settings.php:49
+msgid "Contributor"
+msgstr "Kontributor"
+
+#: includes/screens/settings.php:56
+msgid "Click Expiry Time Length (per IP)"
+msgstr "Klik na duzinu vremena koje ističe (po IP)"
+
+#: includes/screens/settings.php:60 includes/screens/settings.php:79
+#: includes/widget.php:91
+msgid "None"
+msgstr "Ništa"
+
+#: includes/screens/settings.php:61 includes/screens/settings.php:80
+msgid "1 Hour"
+msgstr "1 sat"
+
+#: includes/screens/settings.php:62 includes/screens/settings.php:81
+msgid "2 Hours"
+msgstr "2 sata"
+
+#: includes/screens/settings.php:63 includes/screens/settings.php:82
+msgid "4 Hours"
+msgstr "4 sata"
+
+#: includes/screens/settings.php:64 includes/screens/settings.php:83
+msgid "6 Hours"
+msgstr "6 sati"
+
+#: includes/screens/settings.php:65 includes/screens/settings.php:84
+msgid "8 Hours"
+msgstr "8 sati"
+
+#: includes/screens/settings.php:66 includes/screens/settings.php:85
+msgid "10 Hours"
+msgstr "10 sati"
+
+#: includes/screens/settings.php:67 includes/screens/settings.php:86
+msgid "16 Hours"
+msgstr "16 sati"
+
+#: includes/screens/settings.php:68 includes/screens/settings.php:87
+msgid "24 Hours"
+msgstr "24 sata"
+
+#: includes/screens/settings.php:75
+msgid "Impression Expiry Time Length (per IP)"
+msgstr "Utisak Isteka Dužine vremena (po IP)"
+
+#: includes/screens/settings.php:94
+msgid "Week starts* (for stats)"
+msgstr "Sedmica počinje* (za statistiku)"
+
+#: includes/screens/settings.php:98
+msgid "Monday"
+msgstr "ponedeljak"
+
+#: includes/screens/settings.php:99
+msgid "Tuesday"
+msgstr "utorak"
+
+#: includes/screens/settings.php:100
+msgid "Wednesday"
+msgstr "sreda"
+
+#: includes/screens/settings.php:101
+msgid "Thursday"
+msgstr "četvrtak"
+
+#: includes/screens/settings.php:102
+msgid "Friday"
+msgstr "petak"
+
+#: includes/screens/settings.php:103
+msgid "Saturday"
+msgstr "subota"
+
+#: includes/screens/settings.php:104
+msgid "Sunday"
+msgstr "nedelja"
+
+#: includes/screens/settings.php:107
+msgid "* Week starts at midnight on the day chosen."
+msgstr "* Sedmica počinje u ponoć na izabrani dan."
+
+#: includes/screens/settings.php:111
+msgid "Revenue Currency Sign"
+msgstr "Prihod valuta prijava"
+
+#: includes/screens/settings.php:116
+msgid "* This sign will be used throughout the reporting section"
+msgstr "* Ovaj znak će se koristiti tokom dela izveštanja "
+
+#: includes/screens/settings.php:120
+msgid "PDF Theme"
+msgstr "PDF tema"
+
+#: includes/screens/settings.php:137
+msgid "* More themes can be downloaded from the"
+msgstr "* Više teme mogu se preuzeti sa"
+
+#: includes/screens/settings.php:137
+msgid "website"
+msgstr "websajt"
+
+#: includes/screens/settings.php:141
+msgid "Custom CSS"
+msgstr "Prilagođeni CSS"
+
+#: includes/screens/settings.php:154
+msgid "How To"
+msgstr "Kako da"
+
+#: includes/screens/settings.php:155
+msgid "Use Shortcodes"
+msgstr "Koristie skraćenice"
+
+#: includes/screens/settings.php:156
+msgid "Shortcodes can be used in any page or post on your site. By default"
+msgstr ""
+"Skraćenice mogu da se koristite na bilo kojoj stranici ili postu na svom "
+"sajtu . Podrazumevano"
+
+#: includes/screens/settings.php:158
+msgid ""
+"is defaulting to the advert type 'Sidebar' and randomly chosing from that. "
+"You can define your own advert type and display the adverts attached to that "
+"type by"
+msgstr ""
+"je po defaultu da se reklamira tip \" Sidebar \" i nasumično bira iz toga . "
+"Možete da definišete svoj tip oglasa i prikažete reklame u prilogu tog tipa "
+"od"
+
+#: includes/screens/settings.php:160
+msgid ""
+"Alternatively, you can display a single advert by entering its \"Banner ID\" "
+"which can be found in the table under the Adverts section"
+msgstr ""
+"Alternativno , možete da prikažete jednu reklamu unoseći svoj  \" baner ID  "
+"\" koji se može naći u tabeli u odeljku Oglasa"
+
+#: includes/screens/settings.php:162
+msgid ""
+"Have a select few adverts that you'd like to show? No problem, just specify "
+"the ids separated by commas"
+msgstr ""
+"Izabrali ste nekoliko oglasa koje biste želeli da prikažete? Nema problema , "
+"samo odvojite zarezima"
+
+#: includes/screens/settings.php:164
+msgid ""
+"Want to output a few adverts at once? Use the 'render' option in the "
+"shortcode"
+msgstr ""
+"Želite da izlazi nekoliko oglasa odjednom ? Koristite opciju \" render \" u "
+"shortcode"
+
+#: includes/screens/settings.php:167
+msgid ""
+"Only have a small space and what a few adverts to display? Turn on the auto "
+"rotating slideshow!"
+msgstr ""
+"Imate samo mali prostor i šta je nekoliko reklama za prikazivanje ? "
+"Uključite auto rotirajuće slajdove !"
+
+#: includes/screens/settings.php:169
+msgid "There are also some settings you can play with to get it just right"
+msgstr "Takođe, postoje neke postavke sa kojima se možete igrati "
+
+#: includes/screens/settings.php:171
+msgid "Effect: \"fade | slideLeft | none\" Default - fade"
+msgstr "Efekat :\"fade | slideLeft | none\" Default - Izbledelo"
+
+#: includes/screens/settings.php:172
+msgid "Pause Speed: \"Time in ms\" Default - 5000 (5s)"
+msgstr "Brzina pauze:  \" Vreme u ms  \" Default - 5000 ( 5s )"
+
+#: includes/screens/settings.php:173
+msgid "Change Speed: \"Time in ms\" Default - 600 (0.6s)"
+msgstr "Promena brzina :  \" Vreme u ms  \" Uobičajeno - 600 ( 0.6s )"
+
+#: includes/screens/settings.php:175
+msgid "Use one or all of these settings"
+msgstr "Koristite jednu ili sve od ovih postavki"
+
+#: includes/screens/settings.php:177
+msgid "To add this into a template, just use the \"do_shortcode\" function"
+msgstr ""
+"Da bi dodali ovo u template , samo koristite \"do_shortcode\"  funkciju"
+
+#: includes/screens/settings.php:182
+msgid "Install PDF Themes"
+msgstr "Instalirajte PDF Teme"
+
+#: includes/screens/settings.php:183
+msgid "Download themes from the"
+msgstr "Preuzmite teme sa"
+
+#: includes/screens/settings.php:183
+msgid "page"
+msgstr "strane"
+
+#: includes/screens/settings.php:183
+msgid ""
+"Locate the themes folder in the adkingpro plugin folder, generally located"
+msgstr ""
+"Pronađite folder Teme u adkingpro plugin folderu , gde se obično nalazi"
+
+#: includes/screens/settings.php:185
+msgid ""
+"Unzip the downloaded zip file and upload the entire folder into the themes "
+"folder mentioned above."
+msgstr ""
+"Raspakujte preuzetu zip datoteku i uploadujte ceo folder u folder Teme iznad "
+"pomenutom ."
+
+#: includes/screens/settings.php:186
+msgid ""
+"Once uploaded, return to this page and your theme will be present in the PDF "
+"Theme dropdown to the left. Choose the theme and save the options. Next time "
+"you generate a report, the theme you have chosen will be used."
+msgstr ""
+"Kada uploadujete , vratite se na ovu stranicu i vaša tema će biti prisutan u "
+"PDF dropdown menija tema sa leve strane . Izaberite temu i sačuvajte "
+"opcije . Sledeći put kad generišete izveštaj ,tema koju ste odabrali će se "
+"koristiti ."
+
+#: includes/screens/settings.php:187
+msgid ""
+"The ability to upload the zip file straight from here will be added soon"
+msgstr "Sposobnost da otpremite zip fajl direktno odavde će bio uskoroti dodat"
+
+#: includes/screens/settings.php:193
+msgid "Q. After activating this plugin, my site has broken! Why?"
+msgstr "P: Nakon aktiviranja ovog plugina , moj sajt je slomljen ! Zašto ?"
+
+#: includes/screens/settings.php:194
+msgid ""
+"Nine times out of ten it will be due to your own scripts being added above "
+"the standard area where all the plugins are included. "
+msgstr ""
+"U devet puta od deset će biti da je to zbog vaših skripti koje se dodaju "
+"iznad standardnog području gde su uključeni svi pluginovi."
+
+#: includes/screens/settings.php:195
+msgid ""
+"If you move your javascript files below the function, \"wp_head()\" in the "
+"\"header.php\" file of your theme, it should fix your problem."
+msgstr ""
+"Ako premestite vaše JavaScript fajlove ispod funkcije ,\"wp_head()\"  u "
+"\"header.php\"  fajlu vaše teme , to bi trebalo da reši problem. ."
+
+#: includes/screens/settings.php:196
+msgid ""
+"Q. I want to track clicks on a banner that scrolls to or opens a flyout div "
+"on my site. Is it possible?"
+msgstr ""
+"P: Želim da pratim klikove na baner koji se skroluje ili otvara flzout div "
+"na mom sajtu . Da li je moguće ?"
+
+#: includes/screens/settings.php:197
+msgid ""
+"Yes. Enter a '#' in as the URL for the banner when setting it up. At output, "
+"the banner is given a number of classes to allow for styling, one being "
+"\"banner{banner_id}\","
+msgstr ""
+"Da. Unesite \"#\" u kao URL za baner kada postavljate . Na izlazu ,baner "
+"daje broj časova  za stajling , \"banner{banner_id}\","
+
+#: includes/screens/settings.php:198
+msgid ""
+"where you would replace the \"{banner_id}\" for the number in the required "
+"adverts class."
+msgstr "gde bi zameniti\"{banner_id}\" za broj u potrebnoj reklami klase ."
+
+#: includes/screens/settings.php:199
+msgid ""
+"Use this in a jquery click event and prevent the default action of the click "
+"to make it do the action you require"
+msgstr ""
+"Koristite ovo u  jquery klik  događaju i sprečite podrazumevanu akciju klika "
+"da biste uradi akciju vam je potrebna"
+
+#: includes/screens/settings.php:205
+msgid ""
+"I get an error saying the PDF can't be saved due to write permissions on the "
+"server. What do I do?"
+msgstr ""
+"Dobijam grešku koja kaže PDF ne može biti sačuvan zbog pisane dozvole na "
+"serveru . Šta da radim ?"
+
+#: includes/screens/settings.php:206
+msgid ""
+"The plugin needs your permission to save the PDFs you generate to the output "
+"folder in the plugins folder. To do this, you are required to"
+msgstr ""
+"Pluginu je potrebna vaša dozvola da bi sačuvao PDFove koje generiše na "
+"izlaznom folderu u folder pluginova. Da biste to uradili , od vas se zahteva "
+"da"
+
+#: includes/screens/settings.php:207
+msgid "update the outputs permissions to be writable. Please see"
+msgstr "ažurirate izlazne dozvole da bi mogle da se upišu. Molimo vas vidite"
+
+#: includes/screens/settings.php:207
+msgid "the wordpress help page"
+msgstr "wordpress stranicu za pomoć"
+
+#: includes/screens/settings.php:207
+msgid "to carry this out."
+msgstr "da biste ovo izneli."
+
+#: includes/widget.php:8
+msgid "Display an advert in the sidebar"
+msgstr "Prikazati oglas sa strane "
+
+#: includes/widget.php:56
+msgid "Advert Type:"
+msgstr "Tip oglasa:"
+
+#: includes/widget.php:65
+msgid "Banner ID#:"
+msgstr "Baner ID#:"
+
+#: includes/widget.php:67
+msgid "Select Randomly"
+msgstr "Izabrati nasumično"
+
+#: includes/widget.php:75
+msgid "# to render:"
+msgstr "# renderovati:"
+
+#: includes/widget.php:79
+msgid "Auto Rotation:"
+msgstr "Auto Rotacija:"
+
+#: includes/widget.php:81
+msgid "Off"
+msgstr "Ugasiti"
+
+#: includes/widget.php:82
+msgid "On"
+msgstr "Uključiti"
+
+#: includes/widget.php:87
+msgid "Rotation Effect:"
+msgstr "Efekat rotacije"
+
+#: includes/widget.php:89
+msgid "Fade"
+msgstr "Nestati"
+
+#: includes/widget.php:90
+msgid "Slide Left"
+msgstr "Levi slajd"
+
+#: includes/widget.php:95
+msgid "Pause Speed:"
+msgstr " Brzina pauze:"
+
+#: includes/widget.php:99
+msgid "Change Speed:"
+msgstr "Promena brzine:"
+
+#. Plugin Name of the plugin/theme
+msgid "Ad King Pro"
+msgstr "Ad King Pro"
+
+#. Plugin URI of the plugin/theme
+msgid "http://kingpro.me/plugins/ad-king-pro/"
+msgstr "http://kingpro.me/plugins/ad-king-pro/"
+
+#. Description of the plugin/theme
+msgid ""
+"Ad King Pro allows you to manage, display, document and report all of your "
+"custom advertising on your wordpress site."
+msgstr ""
+"Ad King Pro vam omogućava da organizujete, prikazujete, dokumente i "
+"reportujete sve vaše custom reklamiranje na vašem wordpress sajtu."
+
+#. Author of the plugin/theme
+msgid "Ash Durham"
+msgstr "Ash Durham"
+
+#. Author URI of the plugin/theme
+msgid "http://durham.net.au/"
+msgstr "http://durham.net.au/"
