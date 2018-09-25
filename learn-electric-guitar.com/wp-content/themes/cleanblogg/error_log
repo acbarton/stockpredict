@@ -1,5 +1,0 @@
-[31-Jul-2016 17:22:24 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/kjvbodbx/public_html/learn-electric-guitar.com/wp-content/themes/cleanblogg/index.php on line 1
-[05-Aug-2016 22:56:03 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/kjvbodbx/public_html/learn-electric-guitar.com/wp-content/themes/cleanblogg/index.php on line 1
-[05-Aug-2016 22:56:03 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/kjvbodbx/public_html/learn-electric-guitar.com/wp-content/themes/cleanblogg/index.php on line 1
-[17-Mar-2017 07:46:39 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/kjvbodbx/public_html/learn-electric-guitar.com/wp-content/themes/cleanblogg/404.php on line 1
-[23-Mar-2017 14:06:54 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/kjvbodbx/public_html/learn-electric-guitar.com/wp-content/themes/cleanblogg/404.php on line 1

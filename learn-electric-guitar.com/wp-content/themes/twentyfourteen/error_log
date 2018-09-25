@@ -1,3 +1,0 @@
-[28-Nov-2016 11:01:23 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/kjvbodbx/public_html/learn-electric-guitar.com/wp-content/themes/twentyfourteen/index.php on line 17
-[28-Nov-2016 11:38:27 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/kjvbodbx/public_html/learn-electric-guitar.com/wp-content/themes/twentyfourteen/index.php on line 17
-[28-Nov-2016 21:26:06 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/kjvbodbx/public_html/learn-electric-guitar.com/wp-content/themes/twentyfourteen/index.php on line 17
