@@ -88,7 +88,7 @@ def get_newPrices():
             #for lineKey in line:
                 #print lineKey, line[lineKey]
     with requests.get(url, stream = True) as response:
-        with open('test.csv', 'wb') as f:
+        with open(path+'ParseArticles/daily_XOM.csv','wb') as f:
             for chunk in response.iter_content(chunk_size = 1024):
                 f.write(chunk)
 

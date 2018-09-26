@@ -598,7 +598,8 @@ class Network(object):
         
         
         data_points = generate_images.form_data_point(days)
-        plt.plot(closing_prices[-days:], lw=2)
+        plt.plot(closing_dates[-days:],closing_prices[-days:], lw=2)
+        plt.xticks(rotation=70)
         actcount=0
         lastact = -1
         for j in range(0,days):
