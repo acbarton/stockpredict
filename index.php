@@ -79,16 +79,13 @@
         </div>
          -->
         
-        <!--
+        
         <div id="rightpanel" >
             
-            <div class="sidebox">
-            <h3>1828 Noah Webster Dictionary:</h3>
-            <p id="dictionary">Instructions:<br />Click on a word from the Online KJV Bible to see the 1828 Noah Webster Dictionary definition.</p>
-            </div>
+            
 
         </div> 
-        -->
+        
          
           
         <div id="content">

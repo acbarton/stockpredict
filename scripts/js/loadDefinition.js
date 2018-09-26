@@ -121,6 +121,8 @@ if (str.length==0) {
 
 function loadStock(str)
 {
+    
+    
  document.getElementById("myDiv").style.display="block";
     setTimeout("hide()", 7000);
     
@@ -135,7 +137,33 @@ if (str.length==0) {
         }
     }
     
-    xmlhttp.open("GET","/scripts/php/xom.php?book="+str,true);
+    xmlhttp.open("GET","/scripts/php/get_stock.php?stock="+str,true);
+    xmlhttp.send();
+    
+}
+
+loadNews("XOM")
+
+
+}
+
+function loadNews(str)
+{
+ document.getElementById("myDiv").style.display="block";
+    setTimeout("hide()", 7000);
+    
+if (str.length==0) { 
+    document.getElementById("rightpanel").innerHTML="";
+    return;
+} else {
+    var xmlhttp=new XMLHttpRequest();
+    xmlhttp.onreadystatechange=function() {
+        if (xmlhttp.readyState==4 && xmlhttp.status==200) {
+            document.getElementById("rightpanel").innerHTML=xmlhttp.responseText;
+        }
+    }
+    
+    xmlhttp.open("GET","/scripts/php/get_news.php?stock="+str,true);
     xmlhttp.send();
     
 }

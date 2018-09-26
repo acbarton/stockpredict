@@ -389,22 +389,21 @@ class Network(object):
             if article_stamp > closing_dates[j-1] and article_stamp < closing_dates[j]:
                 return closing_prices[j], j
     
-    def stock_simulate_last_30(self, j, pred, own, shares, investment, closing_prices):
-        xaxis=[]
-        for x in range(0,len(closing_prices)):
-            xaxis.append(x)
+    def stock_simulate_last_30(self, j, pred, own, shares, investment, closing_prices,closing_dates):
+        
         closing_price = closing_prices[j]
+        closing_date = closing_dates[j]
         
         if pred == 1 and own[0] == 0:
             shares[0] = investment[0] / closing_price
             own[0] = 1
-            plt.annotate('buy',xy=(xaxis[j],closing_price))
+            plt.annotate('buy',xy=(closing_date,closing_price))
             return pred
         elif pred == 1 and own[0] == 1:
             return -1
         elif pred == 0 and own[0] == 1:
             investment[0] = shares[0] * closing_price
-            plt.annotate('sell',xy=(xaxis[j],closing_price))
+            plt.annotate('sell',xy=(closing_date,closing_price))
             #print investment[0]
             own[0] = 0
             return pred
@@ -610,7 +609,7 @@ class Network(object):
         
             #self.stock_simulate_news_dates(j, pred, own, investment, closing_prices,closing_dates,article_timestamps)
             #self.stock_simulate_all_dates(j, pred, own, shares, investment,  closing_prices)
-            act = self.stock_simulate_last_30(j,pred,own,shares,investment,closing_prices[-days:])
+            act = self.stock_simulate_last_30(j,pred,own,shares,investment,closing_prices[-days:],closing_dates[-days:])
             if act > -1:
                 if j > actcount:
                     actcount = j
@@ -710,7 +709,8 @@ class Network(object):
         
         
         data_points = generate_images.form_data_point(days)
-        plt.plot(closing_prices[-days:], lw=2)
+        plt.plot(closing_dates[-days:],closing_prices[-days:], lw=2)
+        plt.xticks(rotation=70)
         actcount=0
         lastact = -1
         for j in range(0,days):
@@ -721,7 +721,7 @@ class Network(object):
         
             #self.stock_simulate_news_dates(j, pred, own, investment, closing_prices,closing_dates,article_timestamps)
             #self.stock_simulate_all_dates(j, pred, own, shares, investment,  closing_prices)
-            act = self.stock_simulate_last_30(j,pred,own,shares,investment,closing_prices[-days:])
+            act = self.stock_simulate_last_30(j,pred,own,shares,investment,closing_prices[-days:],closing_dates[-days:])
             if act > -1:
                 if j > actcount:
                     actcount = j
