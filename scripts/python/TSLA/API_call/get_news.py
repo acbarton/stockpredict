@@ -5,7 +5,7 @@ import json
 import re
 from datetime import datetime
 from datetime import timedelta
-path='/var/www/html/scripts/python/XOM/'
+path='/var/www/html/scripts/python/TSLA/'
 import sys
 sys.path.insert(0, path+'CNN')
 import load_data

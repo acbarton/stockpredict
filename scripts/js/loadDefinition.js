@@ -142,7 +142,7 @@ if (str.length==0) {
     
 }
 
-loadNews("XOM")
+loadNews("TSLA")
 
 
 }
@@ -175,7 +175,7 @@ function hide() {
     document.getElementById("myDiv").style.display="none";
 }
 
-function loadsim()
+function loadsim(str)
 {   
     
     var xmlhttp=new XMLHttpRequest();
@@ -184,7 +184,7 @@ function loadsim()
             document.getElementById("simulation").innerHTML=xmlhttp.responseText;
         }
     }
-    xmlhttp.open("GET","/scripts/php/simulation.php",true);
+    xmlhttp.open("GET","/scripts/php/simulation.php?stock="+str,true);
     xmlhttp.send();
 
 }
@@ -208,7 +208,7 @@ function sliderdays()
     
 }
 
-function simulate()
+function simulate(str)
 {   
     document.getElementById("simulation_out").innerHTML = ""
     document.getElementById("yoyo").style.display="block";
@@ -222,7 +222,7 @@ function simulate()
             document.getElementById("simulation_out").innerHTML=xmlhttp.responseText;
         }
     }
-    xmlhttp.open("GET","/scripts/php/simulation_out.php?invest="+investment+"&days="+days,true);
+    xmlhttp.open("GET","/scripts/php/simulation_out.php?stock="+str+"&invest="+investment+"&days="+days,true);
     xmlhttp.send();
     
     

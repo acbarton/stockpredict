@@ -1,5 +1,5 @@
 <?php
-
+$stock = $_GET['stock'];
 echo'<hr>';
 #echo'<h2>Simulation</h2>';
 
@@ -20,7 +20,7 @@ echo'<div class="slidecontainer">';
 echo'</div>';
 
 echo '<ul>'
-. '<li><a class="button" href="#" onclick="simulate();return false;">Simulate</a></li>'
+. '<li><a class="button" href="#" onclick="simulate('.escapeshellarg($stock).');return false;">Simulate</a></li>'
 . '</ul>';
 
 ?>

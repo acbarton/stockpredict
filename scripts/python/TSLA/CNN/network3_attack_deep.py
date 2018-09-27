@@ -411,21 +411,22 @@ class Network(object):
             return -1 
     
     def stock_simulate_all_dates(self, j, pred, own, shares, investment, closing_prices):
-        xaxis=[]
-        for x in range(5452,len(closing_prices)-10):
-            xaxis.append(x)
-        closing_price = closing_prices[j+5452]
+        #xaxis=[]
+        #for x in range(5452,len(closing_prices)-10):
+            #xaxis.append(x)
+        print len(closing_prices)
+        closing_price = closing_prices[j+1571]
         #print closing_price
         if pred == 1 and own[0] == 0:
             shares[0] = investment[0] / closing_price
             own[0] = 1
-            plt.annotate('buy',xy=(xaxis[j],closing_price))
+            #plt.annotate('buy',xy=(xaxis[j],closing_price))
             return 
         elif pred == 1 and own[0] == 1:
             return 
         elif pred == 0 and own[0] == 1:
             investment[0] = shares[0] * closing_price
-            plt.annotate('sell',xy=(xaxis[j],closing_price))
+            #plt.annotate('sell',xy=(xaxis[j],closing_price))
             print investment[0]
             own[0] = 0
             return 
@@ -503,7 +504,7 @@ class Network(object):
         xaxis=[]
         #for x in range(0,len(closing_prices)):
             #xaxis.append(x)
-        plt.plot(closing_prices, lw=2)
+        #plt.plot(closing_prices, lw=2)
     
         for j in range(num_test_batches):
             #print article_timestamps[j]
@@ -521,7 +522,8 @@ class Network(object):
         print('The corresponding test accuracy is {0:.2%}'.format(test_accuracy))
         accuracy = "{0:.2%}". format(test_accuracy)
         
-        path='/var/www/html/scripts/python/XOM/'
+        """
+        path='/var/www/html/scripts/python/TSLA/'
         plt.show()
         fig=plt.gcf()
         fig.savefig(path+'CNN/display/xom_image.png', bbox_inches='tight',dpi=None, facecolor='w', edgecolor='w',
@@ -529,6 +531,7 @@ class Network(object):
         transparent=False, pad_inches=0.1,
         frameon=None)
         #plt.show()
+        """
         
     def Test_Net_Predict(self, training_data, epochs, mini_batch_size, eta,
             validation_data, test_data, article_timestamps, closing_prices, closing_dates, lmbda=0.0):
@@ -631,16 +634,16 @@ class Network(object):
         #print('The corresponding test accuracy is {0:.2%}'.format(test_accuracy))
         accuracy = "{0:.2%}". format(test_accuracy)
         #plt.show() 
-        path='/var/www/html/scripts/python/XOM/'
+        path='/var/www/html/scripts/python/TSLA/'
         fig=plt.gcf()
-        fig.savefig(path+'CNN/display/xom.png', bbox_inches='tight',dpi=None, facecolor='w', edgecolor='w',
+        fig.savefig(path+'CNN/display/tsla.png', bbox_inches='tight',dpi=None, facecolor='w', edgecolor='w',
         orientation='portrait', papertype=None, format=None,
         transparent=False, pad_inches=0.1,
         frameon=None)
         #plt.show()    
         
-        print '<h2  >XOM Daily Close: Past '+str(days)+' Days</h2>'
-        print '<img src=\"scripts/python/XOM/CNN/display/xom.png\" onload=\"loadsim()\" >'
+        print '<h2>TSLA Daily Close: Past '+str(days)+' Days</h2>'
+        print '<img src=\"scripts/python/TSLA/CNN/display/tsla.png\" onload=\"loadsim(\'TSLA\')\" >'
         
     def Test_Net_Simulate(self, training_data, epochs, mini_batch_size, eta,
             validation_data, test_data, article_timestamps, closing_prices, closing_dates, investment, days, lmbda=0.0):
@@ -746,17 +749,17 @@ class Network(object):
         #print('The corresponding test accuracy is {0:.2%}'.format(test_accuracy))
         accuracy = "{0:.2%}". format(test_accuracy)
         #plt.show() 
-        path='/var/www/html/scripts/python/XOM/'
+        path='/var/www/html/scripts/python/TSLA/'
         
         fig=plt.gcf()
-        fig.savefig(path+'CNN/display/xom_sim_'+str(days)+'.png', bbox_inches='tight',dpi=None, facecolor='w', edgecolor='w',
+        fig.savefig(path+'CNN/display/tsla_sim_'+str(days)+'.png', bbox_inches='tight',dpi=None, facecolor='w', edgecolor='w',
         orientation='portrait', papertype=None, format=None,
         transparent=False, pad_inches=0.1,
         frameon=None)
         #plt.show()    
         
-        print '<h2  >XOM Daily Close: Past '+str(days)+' Days</h2>'
-        print '<img src=\"scripts/python/XOM/CNN/display/xom_sim_'+str(days)+'.png\" onload=\"hideyoyo()\" >'
+        print '<h2>TSLA Daily Close: Past '+str(days)+' Days</h2>'
+        print '<img src=\"scripts/python/TSLA/CNN/display/tsla_sim_'+str(days)+'.png\" onload=\"hideyoyo()\" >'
         
             
     def Test_adv_data(self, training_data, epochs, mini_batch_size, eta,

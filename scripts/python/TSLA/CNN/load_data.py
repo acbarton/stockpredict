@@ -27,7 +27,7 @@ from datetime import datetime
 import theano
 import theano.tensor as T
 
-path='/var/www/html/scripts/python/XOM/'
+path='/var/www/html/scripts/python/TSLA/'
 
 def load_article_timestamps(article_timestamps):
     
@@ -43,7 +43,7 @@ def load_article_timestamps(article_timestamps):
             
 def load_prices(closing_prices,closing_dates):
     
-    with open(path+"ParseArticles/daily_XOM.csv", 'rb') as f:
+    with open(path+"ParseArticles/daily_TSLA.csv", 'rb') as f:
         lines = f.readlines()
         
         for i in range(1, len(lines)):
@@ -94,7 +94,7 @@ def prices2image(stock_prices,id):
 
 def label_data_all_dates(labels,closing_prices,closing_dates):
     PERCENT=0.0
-    for j in range(4282,len(closing_dates)-10):
+    for j in range(382,len(closing_dates)-10):
         #print closing_prices[j]
         #print article_timestamps[i], closing_dates[j]
         if closing_prices[j+10] >= closing_prices[j]+(closing_prices[j]*PERCENT):
@@ -140,7 +140,7 @@ def load_data():
     
     
     article_timestamps=[]
-    model = Doc2Vec.load(path+'word2vec-sentiments/pvecs_348.d2v')
+    load_article_timestamps(article_timestamps)
     data=[]
     
     #printa('down',model)
@@ -160,67 +160,14 @@ def load_data():
     #print "loading_data"
     with open(path+"CNN/figs/images_vecs_all_dates.pkl", "rb") as fp:   # Unpickling
         data = pickle.load(fp)
-    #print "done"
-
-    #print closing_dates
-    #for i in range(0,len(closing_dates)):
-        #print closing_dates[i], closing_prices[i]
-        
-        
-    load_article_timestamps(article_timestamps)
-    #print article_timestamps
-    for i in range(0,1):
-        #print i
-        sample_date = article_timestamps[i]
-        stock_prices = []
-        for j in range(0,len(closing_dates)):
-            
-            if sample_date == closing_dates[j]:
-                #print sample_date, closing_dates[j]
-                for k in xrange(0,30):
-                    stock_prices.append(closing_prices[j-k])
-                stock_prices.reverse()
-                #image = prices2image(stock_prices,sample_date)
-                #a = np.hstack((model[i], np.array(stock_prices)))
-                #a = np.hstack((model[i], image))
-                #for m in model[i]:
-                    #image = np.append(image, m)
-                #print image.shape
-                #data.append(image)
-                #data.append(stock_prices)
-                #data.append(model[i])
-                
-                break
-            if sample_date > closing_dates[j-1] and sample_date < closing_dates[j]:
-                #print sample_date, closing_dates[j]
-                for k in xrange(0,30):
-                    stock_prices.append(closing_prices[j-k])
-                stock_prices.reverse()
-                #image = prices2image(stock_prices,sample_date)
-                #a = np.hstack((model[i], np.array(stock_prices)))
-                #a = np.hstack((model[i], image))
-                #for m in model[i]:
-                    #image = np.append(image, m)
-                #data.append(image)
-                #data.append(stock_prices)
-                #data.append(model[i])
-                
-                break
-        #print len(stock_prices)       
-        #a = np.hstack((model[i-1], model[i]))
-        #data.append(a)
-        #data.append(model[i])  
-        #print len(stock_prices)
-        #data.append(stock_prices)  
-        
-        #print data
     
-    
+        
+  
     labels=[]
     #label_data_news_dates(labels,closing_dates,closing_prices,article_timestamps,NUM_SAMPLES)
     label_data_all_dates(labels,closing_prices,closing_dates)
     NUM_SAMPLES = len(labels)
-        
+    
     
     
     data = np.array(data)

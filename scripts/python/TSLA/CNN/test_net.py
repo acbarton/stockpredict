@@ -8,14 +8,14 @@ from network3_attack_deep import Network
 from network3_attack_deep import ConvPoolLayer, FullyConnectedLayer, SoftmaxLayer, ReLU
 
 
-sys.path.insert(0, '/var/www/html/scripts/python/XOM/CNN/')
+sys.path.insert(0, '/var/www/html/scripts/python/TSLA/CNN/')
 import load_data
 
 
 
 def main():
     
-    path ='/var/www/html/scripts/python/XOM/CNN/'
+    path ='/var/www/html/scripts/python/TSLA/CNN/'
     
     layer1_dim = 18
     layer2_dim = 7
