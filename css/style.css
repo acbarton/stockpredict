@@ -521,7 +521,13 @@ width:375px;
 
 #rightpanel a{
     text-decoration:none !important;
-    color:white !important;
+    color:black !important;
+    //border-bottom-style: solid;
+}
+
+#rightpanel a:hover{
+   
+    color:red !important;
     border-bottom-style: solid;
 }
 

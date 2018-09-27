@@ -179,12 +179,12 @@ def load_data():
     labels = np.array(labels)
     
     #data,labels = shuffle(data,labels, random_state=0)
-    train_data=data[:int(NUM_SAMPLES*.7)]
-    train_labels=labels[:int(NUM_SAMPLES*.7)]
+    train_data=data[:int(NUM_SAMPLES*.9)]
+    train_labels=labels[:int(NUM_SAMPLES*.9)]
     train_data,train_labels = shuffle(train_data,train_labels, random_state=0)
     
-    test_data=data[int(NUM_SAMPLES*.7):]
-    test_labels=labels[int(NUM_SAMPLES*.7):]
+    test_data=data[int(NUM_SAMPLES*.9):]
+    test_labels=labels[int(NUM_SAMPLES*.9):]
     
     
     train_x=train_data#[:int(NUM_SAMPLES*.6)] 

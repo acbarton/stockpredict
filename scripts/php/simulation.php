@@ -15,7 +15,7 @@ echo'</div>';
 echo'<p>Choose investment time frame (days prior).</p>';
 
 echo'<div class="slidecontainer">';
-  echo'<input oninput="sliderdays()" type="range" min="10" max="365" value="10" class="slider" id="days">';
+  echo'<input oninput="sliderdays()" type="range" min="10" max="120" value="10" class="slider" id="days">';
   echo'<p>Days: <span id="daysout">10</span></p>';
 echo'</div>';
 

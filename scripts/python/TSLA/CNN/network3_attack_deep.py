@@ -552,6 +552,7 @@ class Network(object):
         num_test_batches = int (size(test_data)/mini_batch_size)
         #num_test_batches = 30
         test_data_size = int (size(test_data))
+        #print test_data_size
         #print '++++=============='
         #print test_x.get_value(borrow=True).shape[0]
         
@@ -603,8 +604,10 @@ class Network(object):
         plt.plot(closing_dates[-days:],closing_prices[-days:], lw=2)
         plt.xticks(rotation=70)
         actcount=0
-        lastact = -1
+        lastact = 0
+        plt.annotate('sell',xy=(closing_dates[-days:][0],closing_prices[-days:][0]))
         for j in range(0,days):
+            
             d = data_points[j]
             d = d.reshape((324,1))
             #print "Prediction: " + str(predict(d))
@@ -631,7 +634,7 @@ class Network(object):
         #print 'final investment: ' + str(investment)
         
             
-        #print('The corresponding test accuracy is {0:.2%}'.format(test_accuracy))
+        print'<p>The corresponding test accuracy is {0:.2%}</p>'.format(test_accuracy)
         accuracy = "{0:.2%}". format(test_accuracy)
         #plt.show() 
         path='/var/www/html/scripts/python/TSLA/'
@@ -731,7 +734,7 @@ class Network(object):
                     lastact = act
                     
              
-        print '<p>Starting investment: <b>$%.2f</b></p>' % starting_investment
+        #print '<p>Starting investment: <b>$%.2f</b></p>' % starting_investment
         
         if investment[0] >= starting_investment:
             print "<p>Final investment value: <b style=\"color:green;\">$%.2f</b></p>" %  investment[0]
@@ -746,7 +749,7 @@ class Network(object):
         #print 'final investment: ' + str(investment)
         
             
-        #print('The corresponding test accuracy is {0:.2%}'.format(test_accuracy))
+        print('The corresponding test accuracy is {0:.2%}'.format(test_accuracy))
         accuracy = "{0:.2%}". format(test_accuracy)
         #plt.show() 
         path='/var/www/html/scripts/python/TSLA/'

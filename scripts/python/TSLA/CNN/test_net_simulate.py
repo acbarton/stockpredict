@@ -8,7 +8,7 @@ from network3_attack_deep import Network
 from network3_attack_deep import ConvPoolLayer, FullyConnectedLayer, SoftmaxLayer, ReLU
 
 
-sys.path.insert(0, '/var/www/html/scripts/python/XOM/CNN/')
+#sys.path.insert(0, '/var/www/html/scripts/python/TSLA/CNN/')
 import load_data
 
 
@@ -20,13 +20,13 @@ def main(invest,days):
     
     
     
-    path ='/var/www/html/scripts/python/XOM/CNN/'
+    path ='/var/www/html/scripts/python/TSLA/CNN/'
     
     layer1_dim = 18
     layer2_dim = 7
     conv_out = 360
     fully_out = 200
-    file=path+'CNN_model_images_vecs_success.pkl'
+    file=path+'CNN_model_images_vecs.pkl'
     
    
     

@@ -3,12 +3,14 @@ import requests
 #import pandas
 import json
 import re
+import os
 from datetime import datetime
 from datetime import timedelta
-path='/var/www/html/scripts/python/XOM/'
+path='/var/www/html/scripts/python/TSLA/'
 import sys
-sys.path.insert(0, path+'CNN')
+sys.path.insert(0, path+'CNN/')
 import load_data
+#sys.path.insert(0, path+'word2vec-sentiments/')
 
 
 def load_articles(articles):
@@ -39,7 +41,7 @@ def getNewArticles(article_timestamps,articles):
     
     url = ('https://newsapi.org/v2/everything?'
         'sources=the-wall-street-journal&'
-        'q=exxon&'
+        'q=tesla&'
         'from='+last+'&'
         'sortBy=publishedAt&'
         'apiKey=89c24ac2fff4411cb48bd06825c25450')
@@ -57,15 +59,18 @@ def getNewArticles(article_timestamps,articles):
                 date = datetime.strptime(date, '%Y-%m-%d')
                 content = v[i]['content'].lower()
                 content = re.sub(r'[^a-zA-Z_0-9 ]', '', content)
-                if 'exxon' in title:
+                if 'tesla' in title:
+                    print date, title
                     datess.append(date)
                     text.append(title + content + '\n')
     
     
-  
+    datess.reverse()
+    text.reverse()
     for i in range(0,len(text)):
         if text[i] not in articles:
             
+            print "writing..."
             f = open(path+'ParseArticles/train_articles.txt','a')
             f.write(text[i])
             f.close()
@@ -77,7 +82,7 @@ def getNewArticles(article_timestamps,articles):
 
 def get_newPrices():
     
-    url = 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=XOM&apikey=XAPAO6Q6PIJ804G4&datatype=csv&outputsize=full'
+    url = 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=TSLA&apikey=XAPAO6Q6PIJ804G4&datatype=csv&outputsize=full'
     #response = requests.get(url)
     #jsonObject = response.json()
     #print jsonObject
@@ -88,20 +93,23 @@ def get_newPrices():
             #for lineKey in line:
                 #print lineKey, line[lineKey]
     with requests.get(url, stream = True) as response:
-        with open(path+'ParseArticles/daily_XOM.csv','wb') as f:
+        with open(path+'ParseArticles/daily_TSLA.csv','wb') as f:
             for chunk in response.iter_content(chunk_size = 1024):
                 f.write(chunk)
 
 def main():
 
     
-    #article_timestamps=[]
-    #load_data.load_article_timestamps(article_timestamps)
-    #articles=[]
-    #load_articles(articles)
+    article_timestamps=[]
+    load_data.load_article_timestamps(article_timestamps)
+    articles=[]
+    load_articles(articles)
     
-    #getNewArticles(article_timestamps, articles)
+    getNewArticles(article_timestamps, articles)
     
+    os.system('python '+path+'word2vec-sentiments/run.py')
+    
+    #import run
     get_newPrices()
                     
               
