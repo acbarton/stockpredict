@@ -3,12 +3,14 @@ import requests
 #import pandas
 import json
 import re
+import os
 from datetime import datetime
 from datetime import timedelta
 path='/var/www/html/scripts/python/XOM/'
 import sys
-sys.path.insert(0, path+'CNN')
+sys.path.insert(0, path+'CNN/')
 import load_data
+#sys.path.insert(0, path+'word2vec-sentiments/')
 
 
 def load_articles(articles):
@@ -58,14 +60,17 @@ def getNewArticles(article_timestamps,articles):
                 content = v[i]['content'].lower()
                 content = re.sub(r'[^a-zA-Z_0-9 ]', '', content)
                 if 'exxon' in title:
+                    print date, title
                     datess.append(date)
                     text.append(title + content + '\n')
     
     
-  
+    datess.reverse()
+    text.reverse()
     for i in range(0,len(text)):
         if text[i] not in articles:
             
+            print "writing..."
             f = open(path+'ParseArticles/train_articles.txt','a')
             f.write(text[i])
             f.close()
@@ -102,6 +107,9 @@ def main():
     
     #getNewArticles(article_timestamps, articles)
     
+    #os.system('python '+path+'word2vec-sentiments/run.py')
+    
+    #import run
     get_newPrices()
                     
               

@@ -100,14 +100,14 @@ def get_newPrices():
 def main():
 
     
-    article_timestamps=[]
-    load_data.load_article_timestamps(article_timestamps)
-    articles=[]
-    load_articles(articles)
+    #article_timestamps=[]
+    #load_data.load_article_timestamps(article_timestamps)
+    #articles=[]
+    #load_articles(articles)
     
-    getNewArticles(article_timestamps, articles)
+    #getNewArticles(article_timestamps, articles)
     
-    os.system('python '+path+'word2vec-sentiments/run.py')
+    #os.system('python '+path+'word2vec-sentiments/run.py')
     
     #import run
     get_newPrices()

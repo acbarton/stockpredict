@@ -142,7 +142,7 @@ if (str.length==0) {
     
 }
 
-loadNews("TSLA")
+loadNews(str)
 
 
 }

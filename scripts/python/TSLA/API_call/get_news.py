@@ -54,7 +54,10 @@ def getNewArticles():
     
     for i in range(0,len(text)):
         date = '{:%B %d, %Y}'.format(datess[i])
-        print '<p>'+date+', <a href="'+urls[i]+'" target="_blank">' + text[i] + '</a></p>'
+        try:
+            print '<p>'+date+', <a href="'+urls[i]+'" target="_blank">' + str(text[i]) + '</a></p>'
+        except:
+            continue
         
     print   '</div>'
    

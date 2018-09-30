@@ -640,7 +640,7 @@ class Network(object):
         #plt.show()    
         
         print '<h2  >XOM Daily Close: Past '+str(days)+' Days</h2>'
-        print '<img src=\"scripts/python/XOM/CNN/display/xom.png\" onload=\"loadsim()\" >'
+        print '<img src=\"scripts/python/XOM/CNN/display/xom.png\" onload=\"loadsim(\'XOM\')\" >'
         
     def Test_Net_Simulate(self, training_data, epochs, mini_batch_size, eta,
             validation_data, test_data, article_timestamps, closing_prices, closing_dates, investment, days, lmbda=0.0):
