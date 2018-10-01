@@ -648,6 +648,124 @@ class Network(object):
         print '<h2>TSLA Daily Close: Past '+str(days)+' Days</h2>'
         print '<img src=\"scripts/python/TSLA/CNN/display/tsla.png\" onload=\"loadsim(\'TSLA\')\" >'
         
+    def Test_Net_Dash(self, training_data, epochs, mini_batch_size, eta,
+            validation_data, test_data, article_timestamps, closing_prices, closing_dates, lmbda=0.0):
+        """Train the network using mini-batch stochastic gradient descent."""
+        training_x, training_y = training_data
+        validation_x, validation_y = validation_data
+        test_x, test_y = test_data
+        #test_x = test_x[472:]
+        #test_y = test_y[472:]
+        
+        
+        #self.LoadParams()
+        #print self.params
+
+        # compute number of minibatches for training, validation and testing
+        num_training_batches = int (size(training_data)/mini_batch_size )
+        num_validation_batches = int (size(validation_data)/mini_batch_size)
+        num_test_batches = int (size(test_data)/mini_batch_size)
+        #num_test_batches = 30
+        test_data_size = int (size(test_data))
+        #print test_data_size
+        #print '++++=============='
+        #print test_x.get_value(borrow=True).shape[0]
+        
+        i = T.lscalar() # mini-batch index
+        validate_mb_accuracy = theano.function(
+            [i], self.layers[-1].accuracy(self.y),
+            givens={
+                self.x:
+                validation_x[i*self.mini_batch_size: (i+1)*self.mini_batch_size],
+                self.y:
+                validation_y[i*self.mini_batch_size: (i+1)*self.mini_batch_size]
+            })
+        test_mb_accuracy = theano.function(
+            [i], self.layers[-1].accuracy(self.y),
+            givens={
+                self.x:
+                test_x[i*self.mini_batch_size: (i+1)*self.mini_batch_size],
+                self.y:
+                test_y[i*self.mini_batch_size: (i+1)*self.mini_batch_size]
+            })
+        self.test_mb_predictions = theano.function(
+            [i], self.layers[-1].y_out,
+            givens={
+                self.x:
+                test_x[i*self.mini_batch_size: (i+1)*self.mini_batch_size]
+            })
+        #dp = T.matrix("data_point")
+        predict = theano.function(
+            [self.x], self.layers[-1].y_out,
+            )
+        
+        # Do Test
+        #print "Test data size: " + str(size(test_data))
+        test_accuracy = np.mean([test_mb_accuracy(j) for j in range(num_test_batches)])
+        investment = [100000.0]
+        #print investment[0]
+        starting_investment = investment[0]
+        shares = [0.0]
+        own = [0]
+        xaxis=[]
+        days = 10
+        #for x in range(0,30):
+            #xaxis.append(x)
+            
+        #print len(closing_prices[-days:])
+        
+        
+        data_points = generate_images.form_data_point(days)
+        plt.plot(closing_dates[-days:],closing_prices[-days:], lw=2)
+        plt.xticks(rotation=70)
+        actcount=0
+        lastact = 0
+        plt.annotate('sell',xy=(closing_dates[-days:][0],closing_prices[-days:][0]))
+        for j in range(0,days):
+            
+            d = data_points[j]
+            d = d.reshape((324,1))
+            #print "Prediction: " + str(predict(d))
+            pred = predict(d)
+        
+            #self.stock_simulate_news_dates(j, pred, own, investment, closing_prices,closing_dates,article_timestamps)
+            #self.stock_simulate_all_dates(j, pred, own, shares, investment,  closing_prices)
+            act = self.stock_simulate_last_30(j,pred,own,shares,investment,closing_prices[-days:],closing_dates[-days:])
+            if act > -1:
+                if j > actcount:
+                    actcount = j
+                    lastact = act
+                    
+        date = closing_dates[-days:][actcount]            
+        #print actcount
+        #print lastact
+        dateformatted = '{:%B %d, %Y}'.format(date)
+        if lastact == 0:
+            print "<b style=\"color:red;\">Sell</b> given on <b>"+ dateformatted +"</b>"           
+        if lastact == 1:
+            print "<b style=\"color:green;\">Buy</b> given on <b>"+ dateformatted +"</b>"
+        
+        #print 'starting investment: '+ str(starting_investment)
+        #print 'final investment: ' + str(investment)
+        
+        """    
+        print'<p>The corresponding test accuracy is {0:.2%}</p>'.format(test_accuracy)
+        accuracy = "{0:.2%}". format(test_accuracy)
+        #plt.show() 
+        path='/var/www/html/scripts/python/TSLA/'
+        fig=plt.gcf()
+        fig.savefig(path+'CNN/display/tsla.png', bbox_inches='tight',dpi=None, facecolor='w', edgecolor='w',
+        orientation='portrait', papertype=None, format=None,
+        transparent=False, pad_inches=0.1,
+        frameon=None)
+        #plt.show()    
+        
+        print '<h2>TSLA Daily Close: Past '+str(days)+' Days</h2>'
+        print '<img src=\"scripts/python/TSLA/CNN/display/tsla.png\" onload=\"loadsim(\'TSLA\')\" >'
+        """
+        
+        
+        
     def Test_Net_Simulate(self, training_data, epochs, mini_batch_size, eta,
             validation_data, test_data, article_timestamps, closing_prices, closing_dates, investment, days, lmbda=0.0):
         """Train the network using mini-batch stochastic gradient descent."""

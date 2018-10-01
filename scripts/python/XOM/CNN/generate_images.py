@@ -153,9 +153,9 @@ def form_data_point(days):
     #print len(closing_dates)
     
     for j in range(len(closing_dates)-days,len(closing_dates)):
-        print closing_dates[j]
+        #print closing_dates[j]
         for k in xrange(0,15):
-            print closing_prices[j-k]
+            #print closing_prices[j-k]
             stock_prices.append(closing_prices[j-k])
         stock_prices.reverse()
         image = load_data.prices2image(stock_prices,1)

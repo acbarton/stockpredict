@@ -397,7 +397,7 @@ body{
 }
 
 #chapters{
-width:375px;
+width:65%;
 }
 
 .button {
@@ -468,6 +468,23 @@ width:375px;
     text-decoration:none;
     
     
+}
+
+.stockbutton a{
+    float:left !important;
+    
+}
+
+.stockbutton p{
+    padding-left:30% ;
+    padding-top:1%;
+    
+    
+}
+
+.stockbutton img {
+    width: 10%;
+    height: auto;
 }
 
 #stockIndicator{

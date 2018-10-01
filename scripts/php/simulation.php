@@ -7,7 +7,7 @@ echo'<h1>Simulation</h1>';
 echo'<p>Choose your investment amount.</p>';
 
 echo'<div class="slidecontainer">';
-  echo'<input oninput="slider()" type="range" min="1000" max="100000" value="1000" class="slider" id="myRange">';
+  echo'<input oninput="slider()" type="range" min="1000" max="500000" value="1000" class="slider" id="myRange">';
   echo'<p>Investment: $<span id="demo">1000</span></p>';
 echo'</div>';
 

@@ -147,6 +147,32 @@ loadNews(str)
 
 }
 
+function loadDash(str)
+{
+    
+    
+ document.getElementById(str).style.display="block";
+    setTimeout("hide()", 7000);
+    
+if (str.length==0) { 
+    document.getElementById(str).innerHTML="";
+    return;
+} else {
+    var xmlhttp=new XMLHttpRequest();
+    xmlhttp.onreadystatechange=function() {
+        if (xmlhttp.readyState==4 && xmlhttp.status==200) {
+            document.getElementById(str).innerHTML=xmlhttp.responseText;
+        }
+    }
+    
+    xmlhttp.open("GET","/scripts/php/get_stock_dash.php?stock="+str,true);
+    xmlhttp.send();
+    
+}
+
+}
+
+
 function loadNews(str)
 {
  document.getElementById("myDiv").style.display="block";
@@ -230,4 +256,12 @@ function simulate(str)
 
 function hideyoyo() {
     document.getElementById("yoyo").style.display="none";
+}
+
+function dashboard(){
+    
+    loadDash("XOM")
+    loadDash("TSLA")
+    
+    
 }

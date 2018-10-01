@@ -19,7 +19,7 @@
         
        
     </head>
-    <body>
+    <body onload="dashboard()">
     
         <div id="wrapper">
           
