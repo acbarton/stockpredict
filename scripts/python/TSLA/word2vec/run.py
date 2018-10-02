@@ -73,4 +73,4 @@ for epoch in range(50):
                 epochs=model.iter,
     )
 
-model.save(path +'word2vec-sentiments/pvecs_99.d2v')
+model.save(path +'word2vec/pvecs_99.d2v')

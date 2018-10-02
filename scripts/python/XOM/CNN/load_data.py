@@ -140,7 +140,7 @@ def load_data():
     
     
     article_timestamps=[]
-    model = Doc2Vec.load(path+'word2vec-sentiments/pvecs_348.d2v')
+    model = Doc2Vec.load(path+'word2vec/pvecs_348.d2v')
     data=[]
     
     #printa('down',model)

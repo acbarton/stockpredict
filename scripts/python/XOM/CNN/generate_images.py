@@ -133,7 +133,7 @@ def gen_samples_All(model):
         
 def form_data_point(days):
     
-    model = Doc2Vec.load(path+'word2vec-sentiments/pvecs_99.d2v')
+    model = Doc2Vec.load(path+'word2vec/pvecs_99.d2v')
     
     #print "forming data point..." 
     closing_prices=[]
@@ -199,7 +199,7 @@ def form_data_point(days):
 
 def main():
     
-    model = Doc2Vec.load('../word2vec-sentiments/pvecs_99.d2v')
+    model = Doc2Vec.load('../word2vec/pvecs_99.d2v')
     
     #gen_samples_images()
     #gen_samples_All(model)
