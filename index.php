@@ -26,7 +26,7 @@
         <div id="topPage">
         <!-- <div id="logo"></div> -->
             
-        <h1>Standing up to Wolves:</h1>
+        <h1>AI Stock Trading</h1>
         <h2>Stock Prediction with Deep Learning</h2>
         
         
