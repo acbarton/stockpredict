@@ -111,6 +111,8 @@ def main():
     
     #import run
     get_newPrices()
+    
+    os.system('python ../CNN/test_net_dash.py')
                     
               
             

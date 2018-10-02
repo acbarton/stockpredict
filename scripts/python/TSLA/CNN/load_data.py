@@ -89,7 +89,7 @@ def prices2image(stock_prices,id):
     #print a.shape
     
     
-    #os.system('rm figs/fig'+str(id)+'.jpg')
+    os.system('rm '+path+'CNN/figs/fig.jpg')
     return a
 
 def label_data_all_dates(labels,closing_prices,closing_dates):

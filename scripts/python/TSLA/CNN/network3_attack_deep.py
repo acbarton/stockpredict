@@ -740,10 +740,12 @@ class Network(object):
         #print actcount
         #print lastact
         dateformatted = '{:%B %d, %Y}'.format(date)
+        f=open('dash.txt','wb')
         if lastact == 0:
-            print "<b style=\"color:red;\">Sell</b> given on <b>"+ dateformatted +"</b>"           
+            f.write( "<b style=\"color:red;\">Sell</b> given on <b>"+ dateformatted +"</b>"  )         
         if lastact == 1:
-            print "<b style=\"color:green;\">Buy</b> given on <b>"+ dateformatted +"</b>"
+            f.write( "<b style=\"color:green;\">Buy</b> given on <b>"+ dateformatted +"</b>" )
+        f.close()
         
         #print 'starting investment: '+ str(starting_investment)
         #print 'final investment: ' + str(investment)
