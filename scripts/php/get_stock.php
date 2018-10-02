@@ -4,7 +4,7 @@
 $stock = $_GET['stock'];
 #$command = "sudo python ../python/xom.py ".escapeshellarg($book);
 #$command = "python ../python/XOM/CNN/test_net.py 2>&1";
-$command = "python ../python/".escapeshellarg($stock)."/CNN/test_net.py";
+$command = "python ../python/".escapeshellarg($stock)."/CNN/test_net.py 2>&1";
 
 
 $pid = popen( $command,"r");
