@@ -122,9 +122,12 @@ if (str.length==0) {
 function loadStock(str)
 {
     
-    
+ document.getElementById("oldtest").innerHTML="";  
+ document.getElementById("oldtest").style.display="none";
+ document.getElementById("rightpanel").style.display="block";
+ document.getElementById("stockIndicator").style.display="block";
  document.getElementById("myDiv").style.display="block";
-    setTimeout("hide()", 7000);
+    setTimeout("hide()", 1000000);
     
 if (str.length==0) { 
     document.getElementById("stockIndicator").innerHTML="";
@@ -236,8 +239,12 @@ function sliderdays()
 
 function simulate(str)
 {   
-    document.getElementById("simulation_out").innerHTML = ""
-    document.getElementById("yoyo").style.display="block";
+    //document.getElementById("simulation_out").style.display="none";
+    //document.getElementById("simulation_out").style.display="block";
+    document.getElementById("stockIndicator").innerHTML = '<div id = "myDiv" style="display:block"><img id = "myImage" src = "images/loading-png.gif"></div>'
+    //document.getElementById("myDiv").style.display="block";
+    //setTimeout("hide()", 7000);
+    //document.getElementById("yoyo").style.display="block";
     //setTimeout("hideyoyo()", 7000);
     var investment = document.getElementById("myRange").value;
     var days = document.getElementById("days").value;
@@ -245,7 +252,7 @@ function simulate(str)
     var xmlhttp=new XMLHttpRequest();
     xmlhttp.onreadystatechange=function() {
         if (xmlhttp.readyState==4 && xmlhttp.status==200) {
-            document.getElementById("simulation_out").innerHTML=xmlhttp.responseText;
+            document.getElementById("stockIndicator").innerHTML=xmlhttp.responseText;
         }
     }
     xmlhttp.open("GET","/scripts/php/simulation_out.php?stock="+str+"&invest="+investment+"&days="+days,true);

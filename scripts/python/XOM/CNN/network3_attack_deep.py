@@ -845,7 +845,7 @@ class Network(object):
                     actcount = j
                     lastact = act
                     
-             
+        
         print '<p>Starting investment: <b>$%.2f</b></p>' % starting_investment
         
         if investment[0] >= starting_investment:

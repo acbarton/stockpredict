@@ -24,10 +24,10 @@
         <div id="wrapper">
           
         <div id="topPage">
-        <!-- <div id="logo"></div> -->
+        <div id="logo"><img src = "images/bot_small.png"></div> 
             
-        <h1>AI Stock Trading</h1>
-        <h2>Stock Prediction with Deep Learning</h2>
+        <h1>AI Swing Trader</h1>
+        <h2>Stock Trading with Deep Learning</h2>
         
         
 
@@ -37,13 +37,13 @@
         
         </div>
         
-        <!--
+        
         <div id="nav" >
             <?php
             include 'scripts/nav.php';
             ?>
         </div>
-        -->
+        
         
         <!--    
         <div id="leftpanel" >
@@ -79,12 +79,10 @@
         </div>
          -->
         
-        
-        <div id="rightpanel" >
-            
-            
-
+        <div id="rightpanel" style="display:none" >
+  
         </div> 
+        
         
          
           
@@ -94,7 +92,11 @@
             
             <div id="chapters">
                 
+                
+                
                 <div id="biblenav">
+                    
+                
             
                 <div id="oldtest">
                 <?php
@@ -106,10 +108,17 @@
                 
             </div>
             </div>
-            <div id="stockIndicator" ><div id = "myDiv" style="display:none"><img id = "myImage" src = "images/yoyo.gif"></div></div>
+            <div id="simwrapper">
             <div id="simulation" ></div>
-            <div id = "yoyo" style="display:none"><img id = "myImage" src = "images/yoyo.gif"></div>
-            <div id="simulation_out" ></div>
+            <div id="stockIndicator" style="display:none" ><div id = "myDiv" style="display:none"><img id = "myImage" src = "images/loading-png.gif"></div></div>
+            
+            
+            
+            
+            
+            </div>
+            
+            <div id="simulation_out" style="display:none" ><div id = "yoyo" style="display:none"><img id = "myImage" src = "images/yoyo.gif"></div></div>
             
            
         
