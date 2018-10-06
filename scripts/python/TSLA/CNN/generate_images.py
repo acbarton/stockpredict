@@ -112,6 +112,7 @@ def gen_samples_All(model):
         #print image.shape
         flag=0
         for z in xrange(0,len(article_timestamps)):
+            
             if article_timestamps[z] == closing_dates[j]:
                 #print model[z].size
                 for m in model[z]:
@@ -171,6 +172,7 @@ def form_data_point(days):
         #print image.shape
         flag=0
         for z in xrange(0,len(article_timestamps)):
+            
             if article_timestamps[z] == closing_dates[j]:
                 #print 'date match'
                 #print model[z].size

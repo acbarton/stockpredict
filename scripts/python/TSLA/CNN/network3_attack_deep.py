@@ -634,7 +634,7 @@ class Network(object):
         #print 'final investment: ' + str(investment)
         
             
-        print'<p>The corresponding test accuracy is {0:.2%}</p>'.format(test_accuracy)
+        #print'<p>The corresponding test accuracy is {0:.2%}</p>'.format(test_accuracy)
         accuracy = "{0:.2%}". format(test_accuracy)
         #plt.show() 
         path='/var/www/html/scripts/python/TSLA/'
@@ -869,7 +869,7 @@ class Network(object):
         #print 'final investment: ' + str(investment)
         
             
-        print('The corresponding test accuracy is {0:.2%}'.format(test_accuracy))
+        #print('The corresponding test accuracy is {0:.2%}'.format(test_accuracy))
         accuracy = "{0:.2%}". format(test_accuracy)
         #plt.show() 
         path='/var/www/html/scripts/python/TSLA/'
