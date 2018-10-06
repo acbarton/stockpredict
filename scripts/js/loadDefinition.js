@@ -267,6 +267,7 @@ function hideyoyo() {
 
 function dashboard(){
     
+    loadDash("AAPL")
     loadDash("XOM")
     loadDash("TSLA")
     
