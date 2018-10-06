@@ -109,7 +109,7 @@ def main():
     
     #os.system('python '+path+'word2vec-sentiments/run.py')
     
-    #import run
+   
     get_newPrices()
                     
     os.system('python ../CNN/test_net_dash.py')         
